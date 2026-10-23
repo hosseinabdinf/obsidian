@@ -1,0 +1,11 @@
+
+# Local Obsidian credentials and workspace
+.obsidian/plugins/git-vault-sync/data.json
+.obsidian/plugins/*/data.json
+.obsidian/plugins/remotely-save/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Smart Connections local data
+.smart-env/
