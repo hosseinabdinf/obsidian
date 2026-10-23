@@ -1,0 +1,23 @@
+{
+  "secrets": {},
+  "outputLocations": {},
+  "outputSettings": {
+    "logseq": {
+      "folder": "Logseq",
+      "attachments": {
+        "mode": "vault",
+        "path": ""
+      },
+      "duplicates": "update",
+      "saveSourceId": true,
+      "idProperty": "logseq-source",
+      "template": "",
+      "titleTemplate": "{{title}}"
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {
+    "logseq": "/home/hossein/Documents/Implementations/My_Repos"
+  },
+  "lastSourceFolder": "/home/hossein/Documents/Implementations/My_Repos"
+}
