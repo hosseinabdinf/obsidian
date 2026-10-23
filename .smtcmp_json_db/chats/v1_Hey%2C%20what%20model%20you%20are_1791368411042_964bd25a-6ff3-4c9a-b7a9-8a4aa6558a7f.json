@@ -1,0 +1,150 @@
+{
+  "id": "964bd25a-6ff3-4c9a-b7a9-8a4aa6558a7f",
+  "title": "Hey, what model you are",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hey, what model you are",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nHey, what model you are\n\n"
+        }
+      ],
+      "id": "2844be11-3083-430d-a594-afc6a16bbd91",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "notes/Welcome.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "what",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nwhat\n\n"
+        }
+      ],
+      "id": "728d6193-31a7-41e5-9d4d-8f3cb8be75d1",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "notes/Welcome.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Hi",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nHi\n\n"
+        }
+      ],
+      "id": "4e7d1483-8147-49b4-9bb7-b8546e34c4ea",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "notes/Welcome.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1791368235611,
+  "updatedAt": 1791368411042,
+  "schemaVersion": 1
+}
