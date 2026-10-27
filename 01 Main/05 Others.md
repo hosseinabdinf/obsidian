@@ -21,3 +21,7 @@ Address: Wijnhaven 24, The Hague City Center, 2511 GA The Hague, Netherlands
 ### 19th November
 
 AMS - HEL (14:05 - 17:25)
+
+
+For getting supercomputer resources for research
+https://www.roihu.csc.fi/public/
