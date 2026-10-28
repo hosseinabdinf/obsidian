@@ -1,11 +1,9 @@
 
 # Work
-- [ ] ⏫ Update the tax information with vero
+- [x] ⏫ Update the tax information with vero ✅ 2026-10-28
 - [ ] ⏫ send the request for new Residence Permit card, and then send it to HR to get the new contract
 - [ ] Ask Antonis for the new contract - mine will end on 2027-01-31
 - [ ] Check this with Antonis https://www.nokiafoundation.com/foundation-fellow
-- [x] Submit this https://www.nokiafoundation.com/nokia-scholarship-info
-	- Notification: 📅 End of December 2026
 - [ ] 
 # Research
 - [ ] AoS is vulnerable, single-key recovery attack
@@ -54,6 +52,12 @@
 ### Swarmchestrate
 - [x] Push the $private-ranking$ branch in resource-agent repository ✅ 2026-10-07
 - [ ] 
+
+
+# Courses
+- [x] Repository assignment ✅ 2026-10-28
+- [ ] Publishing the date&times for phase one on moodle 📅 2026-11-15 
+- [ ] Check the remaining students and groups from the emails until Friday
 
 # Others
 - [ ] Pay the car & parking invoice

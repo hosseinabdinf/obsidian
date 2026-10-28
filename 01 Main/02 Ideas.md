@@ -23,3 +23,6 @@
 #ideas make HHE-Video processing as Heimdall or Theia
 
 #Ideas what is data? what can we do? store? transmit? use? how to secure?
+
+
+#Ideas MedGemma from google for private inference https://huggingface.co/collections/google/medgemma-release
