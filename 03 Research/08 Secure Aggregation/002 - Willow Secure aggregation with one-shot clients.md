@@ -206,24 +206,24 @@ Sources: §7, Tables 2–3, Figures 7–8.
 
 ### 1. Notation
 
-| Symbol | Meaning |
-| --- | --- |
-| $x_i\in\mathbb{F}^{\ell}$ | Client $i$'s input |
-| $S$ | Set of included contributions |
-| $k_i$ | Fresh symmetric KAHE key |
-| $z_i$ | Fresh PRG seed |
-| $r_i=\operatorname{PRG}(z_i,\ell)$ | Expanded mask vector |
-| $y_i=x_i+r_i$ | Masked input |
-| $M_i$ | KAHE encryption of $y_i$ |
-| $B_i=(B_{i,0},B_{i,1})$ | AHE encryption of $k_i$ |
-| $C_i$ | Auxiliary encryption of $z_i$ |
-| $\tau_i$ | Random nonce bound into the encryption proof |
-| $\pi_i$ | Client encryption proof |
-| $pk,sk$ | Threshold AHE public and secret key |
-| $pk_{\mathrm{aux}},sk_{\mathrm{aux}}$ | Auxiliary encryption keys for PRG seeds |
-| $m$ | Number of decryptors |
-| $t$ | Secret-sharing reconstruction threshold |
-| $c_V$ | Number of verifiers |
+| Symbol                                | Meaning                                      |
+| ------------------------------------- | -------------------------------------------- |
+| $x_i\in\mathbb{F}^{\ell}$             | Client $i$'s input                           |
+| $S$                                   | Set of included contributions                |
+| $k_i$                                 | Fresh symmetric KAHE key                     |
+| $z_i$                                 | Fresh PRG seed                               |
+| $r_i=\operatorname{PRG}(z_i,\ell)$    | Expanded mask vector                         |
+| $y_i=x_i+r_i$                         | Masked input                                 |
+| $M_i$                                 | KAHE encryption of $y_i$                     |
+| $B_i=(B_{i,0},B_{i,1})$               | AHE encryption of $k_i$                      |
+| $C_i$                                 | Auxiliary encryption of $z_i$                |
+| $\tau_i$                              | Random nonce bound into the encryption proof |
+| $\pi_i$                               | Client encryption proof                      |
+| $pk,sk$                               | Threshold AHE public and secret key          |
+| $pk_{\mathrm{aux}},sk_{\mathrm{aux}}$ | Auxiliary encryption keys for PRG seeds      |
+| $m$                                   | Number of decryptors                         |
+| $t$                                   | Secret-sharing reconstruction threshold      |
+| $c_V$                                 | Number of verifiers                          |
 
 The notation here is slightly renamed for clarity while preserving the paper's construction.
 

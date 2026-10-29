@@ -1,7 +1,14 @@
----
-logseq-source: Logseq/pages/Transciphering HE.md
----
-SoK & Surveys
+
+# SoK & Surveys
+
+| ID  | Year | Title                                                                  | Page                                                                              |
+| --- | ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 1   | 2026 | The hhe land: Exploring the landscape of hybrid homomorphic encryption | [[001 - The hhe land - Exploring the landscape of hybrid homomorphic encryption]] |
+| 2   | 2026 | HHE Kombat: Benchmarking Hybrid Homomorphic Encryption Schemes         | [[002 - HHE Kombat - Benchmarking Hybrid Homomorphic Encryption Schemes]]         |
+|     |      |                                                                        |                                                                                   |
+
+
+
 
 - 2022 - Thesis - RtF & BtR [On homomorphic encryption, transciphering frameworks, and he-friendly ciphers](https://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=1021116&flag=dissertation) - **No File**
 - 2025 - [The HHE Land: Exploring the Landscape of Hybrid Homomorphic Encryption](https://eprint.iacr.org/2025/071.pdf) ![[2025-071_1781166942800_0.pdf]]
