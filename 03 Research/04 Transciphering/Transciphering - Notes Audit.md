@@ -8,11 +8,13 @@ tags:
 ---
 # Transciphering notes — source audit
 
-**Assessment:** the 21 substantive paper notes are broadly consistent with their linked local PDFs after the corrections below. Their benchmark qualifications and distinctions between confidentiality, authentication, and verified computation are important to retain. Several source formulas/counts remain unresolved; the affected notes are reading notes, not validated implementation specifications.
+> **Current completion:** 59 of 59 locally available papers now have substantive notes. This includes 38 newly written notes, following the initial 21-note audit below. Only 019 (LEA migration) and 022 (improved SM4 bootstrapping) still have no local PDF. The initial counts below are preserved as a historical snapshot; see the completion review at the end for the new work.
 
-**Scope:** all 61 paper pages were checked for content and PDF availability. There are **21 substantive notes**, **35 template-only pages with PDFs**, and **five template-only pages without local PDFs** (003, 007, 013, 019, 022). All 21 substantive notes were read and cross-checked against the relevant source sections, definitions and selected benchmark tables. This audit does not complete the remaining paper readings.
+**Initial audit assessment (before the additional PDFs/readings):** the 21 substantive paper notes are broadly consistent with their linked local PDFs after the corrections below. Their benchmark qualifications and distinctions between confidentiality, authentication, and verified computation are important to retain. Several source formulas/counts remain unresolved; the affected notes are reading notes, not validated implementation specifications.
 
-The two PDFs physically in `PDFs/04-Transciphering` are HHE Land and HHE Kombat. The other 54 PDFs referenced by this collection are in `PDFs`; the audit followed those links too. See [[000 - Transciphering HE]] for the paper-to-PDF links and reading status.
+**Initial audit snapshot:** all 61 paper pages were checked for content and PDF availability. There are **21 substantive notes**, **35 template-only pages with PDFs**, and **five template-only pages without local PDFs** (003, 007, 013, 019, 022). All 21 substantive notes were read and cross-checked against the relevant source sections, definitions and selected benchmark tables. This audit does not complete the remaining paper readings.
+
+At that initial snapshot, the two PDFs physically in `PDFs/04-Transciphering` are HHE Land and HHE Kombat. The other 54 PDFs referenced by this collection are in `PDFs`; the audit followed those links too. See [[000 - Transciphering HE]] for the paper-to-PDF links and reading status.
 
 ## Corrections and clarifications
 
@@ -69,3 +71,59 @@ These are already identified in the individual notes; reproducing a source claim
 Exhaustive small-domain checks covered the repaired multiplexer (8 inputs), SIMON/Trivium gadget (32 inputs), AND modulo three, base-four AND, byte-shift semantics, field-product identities in $\mathbb F_3,\mathbb F_5,\mathbb F_{17}$, Hippogryph recomposition (16 nibbles), LowMC S-box (8 inputs), SM4 inversion (256 values), and full-adder sum/carry (8 inputs). Additional arithmetic checks covered cipher operation totals, XBOOT's ideal parity reduction, BLEACH expansions, encrypted-state sizes, warm-up offsets, image size and headline amortization.
 
 These checks operate on the notes' ideal mathematical descriptions. They do not simulate homomorphic noise, establish extremely small failure probabilities, or reproduce the published benchmarks. External implementations, current paper revisions and later cryptanalysis were not independently checked in this local-source audit. Source-PDF links, note structure and preservation of existing metadata were also checked.
+
+
+## Completion review — additional PDFs and awaiting notes
+
+The **38 newly completed pages** are 003, 007, 013, and 027–061. Their summaries, assumptions, scheme steps, diagrams, and selected measurements were checked against the linked local documents. For long theses, the review focused on the contribution chapters and source material used in the notes, rather than treating background/reference pages as independent contributions. The original 21 notes retain their earlier audit; this completion pass does not claim a second full audit of them.
+
+| ID | Main checks and reading qualification |
+| --- | --- |
+| 003 | RtF/BtE, HERA/Rubato/eHERA, source-specific parameters; eHERA-8's HE estimate is below its symmetric target. |
+| 007 | TFHE stream generation, minute-based timings, source-word width versus encrypted-bit packing, abbreviated MAC assumptions. |
+| 013 | Fregata's AES layouts and GF(256) operations; selected phase costs and packing/initialization scope. |
+| 027 | Rasta construction, AND counts, data bounds, random affine layers, heuristic algebraic security. |
+| 028 | Dasta's structured affine replacement, rotation/packing costs and client-versus-server metrics. |
+| 029 | Improved FLIP/filter instances, degree and implementation metrics; original versus revised parameters. |
+| 030 | FiLIP/TFHE setup and mask evaluation; failure estimates and the printed variance discrepancy. |
+| 031 | Extension-field-generated Masta maps and visually inspected tables; inconsistent component/total time flagged. |
+| 032 | HERA/RtF conversion, error normalization and HalfBoot; latency separated from all-output throughput. |
+| 033 | PASTA affine/nonlinear order, packing, depth and tables; setup and low-security comparison rows qualified. |
+| 034 | FASTA matrix family, XOF counts and security equations; three incorrect binomial estimates recalculated. |
+| 035 | Elisabeth/GFP and TFHE application; heuristic security distinguished from later supplied reports of attacks. |
+| 036 | Rubato deterministic core versus retained client noise; structured-coefficient assumption and precision tradeoffs. |
+| 037 | SortingHat/FiLIP representations, decision traversal and conversion costs; model privacy is not supplied. |
+| 038 | Corrected Chaghri version, inversion direction and nonlinear costs; older broken version kept distinct. |
+| 039 | Trivium/Kreyvium recurrence, initialization and parallelism; warm-up, output latency and throughput separated. |
+| 040 | Thunderbird mixed TFHE operations, source timings and setup sizes; noise-covariance and projected results qualified. |
+| 041 | Weighted FiLIP, p-independent client setup and p-dependent server setup; weak failure row and projected sums flagged. |
+| 042 | FRAST update order, dynamic LUTs and shared blind rotations; noise model, online conversion and setup separated. |
+| 043 | YuX forward/inverse direction, prime versus binary variants and graphical tables; fastest prime row targets only 118-bit HE. |
+| 044 | YuS quadratic inverse, trail scope and graphical benchmarks; corrected inverse and capacity interpretation. |
+| 045 | Transistor recurrence, exact balancedness scope, LFSR wrapping, failure accounting and bit-serialization claims. |
+| 046 | PASTA-v2 randomness reduction and fixed later layers; heuristic security and below-128-bit HE rows identified. |
+| 047 | FHE-based MPC/Margrethe, two related-key streams, lookup evaluation and single-output parallelism. |
+| 048 | Medical prototype role/key ownership, offline mask generation and rule-count evaluation; no clinical validation inferred. |
+| 049 | Genomics access roles, FV/BGV tables and timing scope; transciphering does not itself compress HE replies. |
+| 050 | MT-PRO database snapshot threat model, key availability and full verification cost; conversion dominates. |
+| 051 | FL shared HE secret key, excluded collusion, integer aggregation and quantization; unsigned-cast issue illustrated. |
+| 052 | HEALED trusted roles, parameter-dependent accuracy and padded normalization; edge gains are not measured per-patient gains. |
+| 053 | Thesis ISA semantics, encoding switching and cipher study; measured versus extrapolated/estimated timings distinguished. |
+| 054 | Walrus/HELM workflows, AES interface, sequential bounds and metric units; tutorial examples are not protocol specifications. |
+| 055 | FL masking/RSA key uploads, narrow interception model and timing tables; shared-key/collusion limitations remain. |
+| 056 | Reactive threshold-FHE protocol, declassification, compact output and theorem assumptions; t<C/3 and hybrid-model scope retained. |
+| 057 | HERMES module packing and HalfBTS; matched-batch latency distinguished from headline cross-batch throughput. |
+| 058 | DNA-HHE architecture and edge transfer model; cycles, synthesis, cloud exclusions and Rubato core/full-encryption boundary. |
+| 059 | Boosted-Deflation input/output representation and benchmarks; invalid addition of parallel PASTA depths explicitly rejected. |
+| 060 | Reused accelerator commands and two-share multiplication; focused first-order TVLA is not whole-device leakage certification. |
+| 061 | Vector-HSS cancellation and DDLog, deterministic candidate testing, key-update and CRT extraction problems; security claims remain unresolved. |
+
+### Independent mathematical checks for the new notes
+
+Checked exact FASTA binomial sums and packing/XOF dimensions; Masta component totals; weighted XOR and decision-tree partition identities; the signed Thunderbird adder identity; all 128 FiLIP parity/majority states and weighted complements; YuS's corrected inverse over all triples in F5, F11, and F17; all 69 nonempty square minors of Transistor's matrix, its permutation and unbiased sampler; the signed-to-unsigned field-encoding counterexample; all 65,536 byte additions and the stated nonzero-divisor high-quotient identity; and two-share multiplication reconstruction over all 3125 small-field inputs. Vector-HSS's modular cancellation works, while the candidate distinction, unchanged-key addition error, and local-DDLog-to-CRT counterexample reproduce as described. These checks support the specific statements, not a complete cryptographic security proof.
+
+### Current vault checks and limits
+
+All 61 indexed paper pages are present, with 59 substantive notes and two clearly marked missing-PDF templates. The tables have 62 paper rows because 047 appears in two categories. Existing frontmatter and source-PDF links were preserved; the newly supplied PDFs are linked in 003, 007, and 013. Paper wikilinks, required template sections, math-block/fence balance and table statuses were checked. No source PDFs were edited.
+
+The readings flag source disagreements rather than silently repairing benchmarks or asserting that a proof gap is an implemented attack. In particular, 061 contains direct concerns about the proposed primitive and should not be used as a validated implementation specification. Published benchmarks, external implementations, very small failure probabilities, side-channel experiments and latest online cryptanalysis were **not independently reproduced or checked** in this local-source completion review.
