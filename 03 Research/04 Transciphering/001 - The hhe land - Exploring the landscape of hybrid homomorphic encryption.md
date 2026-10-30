@@ -73,6 +73,8 @@ Theorem 1 states that HHE is IND-CPA secure if both its underlying HE and symmet
 
 This is a conditional claim: the concrete symmetric cipher, parameters, nonce handling, HE parameters, and exposed evaluation material must satisfy the required assumptions. The paper separately surveys attacks against those concrete components.
 
+**Independent proof check:** for the basic CPA setting, generate the HE keys independently of $K$ and assume HE security includes the public evaluation material. A suitable hybrid replaces $\operatorname{HE.Enc}(pk,K)$ with an encryption of a fixed zero string, keeps symmetric encryption under the real $K$, switches the symmetric challenge using SKE IND-CPA, then restores the encrypted key. Public decompression/evaluation is post-processing of that view. This argument uses indistinguishability of encryptions, **not** indistinguishability from uniformly random ciphertext-space elements. It supports the basic composition claim under these assumptions while leaving the printed game hops in Questions unresolved. It does not establish CPAD, authentication, or malicious-server correctness.
+
 ### Limits of the model
 
 - The HHE game does not establish authenticated encryption or verifiable server computation.
