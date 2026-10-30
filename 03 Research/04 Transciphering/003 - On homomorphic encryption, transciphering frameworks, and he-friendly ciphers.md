@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2022"
 link: "[here](https://library.kaist.ac.kr/search/detail/view.do?bibCtrlNo=1021116&flag=dissertation)"
-file: ""
+file: "[[2022-Thesis-On homomorphic encryption, transciphering frameworks, and he-friendly ciphers.pdf]]"
 tags:
   - HE
   - HHE

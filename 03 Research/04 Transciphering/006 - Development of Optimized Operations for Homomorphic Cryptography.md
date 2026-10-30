@@ -81,14 +81,14 @@ ORPHEUS's noise reasoning uses a Gaussian model. Its debugging probes serialize 
 
 The thesis uses **different machines for different chapters**:
 
-| Contribution | Environment | Important scope |
-| --- | --- | --- |
-| Chapter 4 Boolean primitives | Intel Core i5-1245U, stated 4.4 GHz, 16 GB RAM | Default estimated security 128 bits and per-PBS error $2^{-40}$; some full-primitive results are estimates |
-| Chapter 5 AES | Intel Core i7-12700H, 64 GiB, Ubuntu 22.04.2 LTS | Common-host single-core comparisons, except published Thunderbird row |
-| Chapter 5 parallel AES | Laptop with six cores; Threadripper PRO 7995WX server using 32 cores | Within-block parallelism, rather than merely processing independent blocks |
-| Chapter 6 Transistor | Intel Core i5-1245U, stated 4.4 GHz | Reported implementation does not exploit the possible 16-way PBS parallelism |
-| Chapters 7–8 server | AMD Ryzen Threadripper PRO 7995WX, 96 cores, up to 5.4 GHz, reported 528 GB RAM | LUT experiments and ORPHEUS profiling |
-| Chapter 8 laptop | Intel Core i7-10870H at 2.2 GHz, eight cores, 8 GB RAM | Separate machine-specific runtime model |
+| Contribution                 | Environment                                                                     | Important scope                                                                                            |
+| ---------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Chapter 4 Boolean primitives | Intel Core i5-1245U, stated 4.4 GHz, 16 GB RAM                                  | Default estimated security 128 bits and per-PBS error $2^{-40}$; some full-primitive results are estimates |
+| Chapter 5 AES                | Intel Core i7-12700H, 64 GiB, Ubuntu 22.04.2 LTS                                | Common-host single-core comparisons, except published Thunderbird row                                      |
+| Chapter 5 parallel AES       | Laptop with six cores; Threadripper PRO 7995WX server using 32 cores            | Within-block parallelism, rather than merely processing independent blocks                                 |
+| Chapter 6 Transistor         | Intel Core i5-1245U, stated 4.4 GHz                                             | Reported implementation does not exploit the possible 16-way PBS parallelism                               |
+| Chapters 7–8 server          | AMD Ryzen Threadripper PRO 7995WX, 96 cores, up to 5.4 GHz, reported 528 GB RAM | LUT experiments and ORPHEUS profiling                                                                      |
+| Chapter 8 laptop             | Intel Core i7-10870H at 2.2 GHz, eight cores, 8 GB RAM                          | Separate machine-specific runtime model                                                                    |
 
 ### Hippogryph AES-128 (Table 5.4)
 

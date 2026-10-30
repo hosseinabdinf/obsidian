@@ -4,37 +4,37 @@
 
 # SoK & Surveys
 
-| ID | Year | Focus | Title | Page | Notes |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 2026 | — | The hhe land: Exploring the landscape of hybrid homomorphic encryption | [[001 - The hhe land - Exploring the landscape of hybrid homomorphic encryption]] | Notes written |
-| 2 | 2026 | — | HHE Kombat: Benchmarking Hybrid Homomorphic Encryption Schemes | [[002 - HHE Kombat - Benchmarking Hybrid Homomorphic Encryption Schemes]] | Notes written |
-| 3 | 2022 | Thesis - RtF & BtR | On homomorphic encryption, transciphering frameworks, and he-friendly ciphers | [[003 - On homomorphic encryption, transciphering frameworks, and he-friendly ciphers]] | No local PDF |
-| 4 | 2025 | — | A Survey on Transciphering and Symmetric Ciphers for Homomorphic Encryption | [[004 - A Survey on Transciphering and Symmetric Ciphers for Homomorphic Encryption]] | Notes written |
-| 5 | 2025 | — | SoK: FHE-Friendly Symmetric Ciphers and Transciphering | [[005 - SoK - FHE-Friendly Symmetric Ciphers and Transciphering]] | Notes written |
-| 6 | 2025 | Thesis | Development of Optimized Operations for Homomorphic Cryptography | [[006 - Development of Optimized Operations for Homomorphic Cryptography]] | Notes written |
+| ID  | Year | Focus              | Title                                                                         | Page                                                                                    | Notes         |
+| --- | ---- | ------------------ | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------- |
+| 1   | 2026 | —                  | The hhe land: Exploring the landscape of hybrid homomorphic encryption        | [[001 - The hhe land - Exploring the landscape of hybrid homomorphic encryption]]       | Notes written |
+| 2   | 2026 | —                  | HHE Kombat: Benchmarking Hybrid Homomorphic Encryption Schemes                | [[002 - HHE Kombat - Benchmarking Hybrid Homomorphic Encryption Schemes]]               | Notes written |
+| 3   | 2022 | Thesis - RtF & BtR | On homomorphic encryption, transciphering frameworks, and he-friendly ciphers | [[003 - On homomorphic encryption, transciphering frameworks, and he-friendly ciphers]] | Added PDF     |
+| 4   | 2025 | —                  | A Survey on Transciphering and Symmetric Ciphers for Homomorphic Encryption   | [[004 - A Survey on Transciphering and Symmetric Ciphers for Homomorphic Encryption]]   | Notes written |
+| 5   | 2025 | —                  | SoK: FHE-Friendly Symmetric Ciphers and Transciphering                        | [[005 - SoK - FHE-Friendly Symmetric Ciphers and Transciphering]]                       | Notes written |
+| 6   | 2025 | Thesis             | Development of Optimized Operations for Homomorphic Cryptography              | [[006 - Development of Optimized Operations for Homomorphic Cryptography]]              | Notes written |
 
 # Standard Transciphering
 
-| ID | Year | Focus | Title | Page | Notes |
-| --- | --- | --- | --- | --- | --- |
-| 7 | 2021 | Grain128 | Revisiting stream-cipher-based homomorphic transciphering in the TFHE era | [[007 - Revisiting stream-cipher-based homomorphic transciphering in the TFHE era]] | No local PDF |
-| 8 | 2022 | Prince, Simon, Speck, LowMC | Practical Homomorphic Evaluation of Block-Cipher-Based Hash Functions with Applications | [[008 - Practical Homomorphic Evaluation of Block-Cipher-Based Hash Functions with Applications]] | Notes written |
-| 9 | 2023 | Grain128 | Optimized Stream-Cipher-Based Transciphering by Means of Functional-Bootstrapping | [[009 - Optimized Stream-Cipher-Based Transciphering by Means of Functional-Bootstrapping]] | Notes written |
-| 10 | 2023 | AES | E2E near-standard and practical authenticated transciphering | [[010 - E2E near-standard and practical authenticated transciphering]] | Notes written |
-| 11 | 2023 | AES | Efficient AES-GCM Decryption Under Homomorphic Encryption | [[011 - Efficient AES-GCM Decryption Under Homomorphic Encryption]] | Notes written |
-| 12 | 2023 | AES | At Last! A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE | [[012 - At Last! A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE]] | Notes written |
-| 13 | 2023 | AES | Fregata: Faster Homomorphic Evaluation of AES via TFHE | [[013 - Fregata - Faster Homomorphic Evaluation of AES via TFHE]] | No local PDF |
-| 14 | 2024 | AES | Optimized Homomorphic Evaluation of Boolean Functions | [[014 - Optimized Homomorphic Evaluation of Boolean Functions]] | Notes written |
-| 15 | 2025 | AES | Refined TFHE Leveled Homomorphic Evaluation and Its Application | [[015 - Refined TFHE Leveled Homomorphic Evaluation and Its Application]] | Notes written |
-| 16 | 2025 | AES | High-Throughput AES Transciphering using CKKS: Less than 1ms | [[016 - High-Throughput AES Transciphering using CKKS - Less than 1ms]] | Notes written |
-| 17 | 2025 | Prince, Simon, Skinny | AES Is Not Enough: the Block Ciphers Zoo Goes Homormorphic | [[017 - AES Is Not Enough - the Block Ciphers Zoo Goes Homormorphic]] | Notes written |
-| 18 | 2025 | Prince, Simon, Skinny | Running Standard Block Ciphers Beyond AES with TFHE: Experiments and Lessons Learn | [[018 - Running Standard Block Ciphers Beyond AES with TFHE - Experiments and Lessons Learn]] | Notes written |
-| 19 | 2026 | LEA | Homomorphic Transciphering for Secure Migration from LEA-128 to LEA-256 | [[019 - Homomorphic Transciphering for Secure Migration from LEA-128 to LEA-256]] | No local PDF |
-| 20 | 2026 | AES - XBOOT | XBOOT: Free-XOR Gates for CKKS with Applications to Transciphering | [[020 - XBOOT - Free-XOR Gates for CKKS with Applications to Transciphering]] | Notes written |
-| 21 | 2020 | SM4 | Homomorphic Evaluation of the SM4 | [[021 - Homomorphic Evaluation of the SM4]] | Notes written |
-| 22 | 2025 | SM4 | Improved Functional Bootstrapping of SM4 for Hybrid Homomorphic Encryption | [[022 - Improved Functional Bootstrapping of SM4 for Hybrid Homomorphic Encryption]] | No local PDF |
-| 23 | 2025 | Chacha20 | Efficient Transciphering with Chacha20 | [[023 - Efficient Transciphering with Chacha20]] | Notes written |
-| 24 | 2026 | AES | Further Improvements in AES Execution over TFHE: Towards Breaking the 1 sec Barrier | [[024 - Further Improvements in AES Execution over TFHE - Towards Breaking the 1 sec Barrier]] | Notes written |
+| ID  | Year | Focus                       | Title                                                                                   | Page                                                                                              | Notes         |
+| --- | ---- | --------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------- |
+| 7   | 2021 | Grain128                    | Revisiting stream-cipher-based homomorphic transciphering in the TFHE era               | [[007 - Revisiting stream-cipher-based homomorphic transciphering in the TFHE era]]               | Added PDF     |
+| 8   | 2022 | Prince, Simon, Speck, LowMC | Practical Homomorphic Evaluation of Block-Cipher-Based Hash Functions with Applications | [[008 - Practical Homomorphic Evaluation of Block-Cipher-Based Hash Functions with Applications]] | Notes written |
+| 9   | 2023 | Grain128                    | Optimized Stream-Cipher-Based Transciphering by Means of Functional-Bootstrapping       | [[009 - Optimized Stream-Cipher-Based Transciphering by Means of Functional-Bootstrapping]]       | Notes written |
+| 10  | 2023 | AES                         | E2E near-standard and practical authenticated transciphering                            | [[010 - E2E near-standard and practical authenticated transciphering]]                            | Notes written |
+| 11  | 2023 | AES                         | Efficient AES-GCM Decryption Under Homomorphic Encryption                               | [[011 - Efficient AES-GCM Decryption Under Homomorphic Encryption]]                               | Notes written |
+| 12  | 2023 | AES                         | At Last! A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE          | [[012 - At Last! A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE]]          | Notes written |
+| 13  | 2023 | AES                         | Fregata: Faster Homomorphic Evaluation of AES via TFHE                                  | [[013 - Fregata - Faster Homomorphic Evaluation of AES via TFHE]]                                 | Added PDF     |
+| 14  | 2024 | AES                         | Optimized Homomorphic Evaluation of Boolean Functions                                   | [[014 - Optimized Homomorphic Evaluation of Boolean Functions]]                                   | Notes written |
+| 15  | 2025 | AES                         | Refined TFHE Leveled Homomorphic Evaluation and Its Application                         | [[015 - Refined TFHE Leveled Homomorphic Evaluation and Its Application]]                         | Notes written |
+| 16  | 2025 | AES                         | High-Throughput AES Transciphering using CKKS: Less than 1ms                            | [[016 - High-Throughput AES Transciphering using CKKS - Less than 1ms]]                           | Notes written |
+| 17  | 2025 | Prince, Simon, Skinny       | AES Is Not Enough: the Block Ciphers Zoo Goes Homormorphic                              | [[017 - AES Is Not Enough - the Block Ciphers Zoo Goes Homormorphic]]                             | Notes written |
+| 18  | 2025 | Prince, Simon, Skinny       | Running Standard Block Ciphers Beyond AES with TFHE: Experiments and Lessons Learn      | [[018 - Running Standard Block Ciphers Beyond AES with TFHE - Experiments and Lessons Learn]]     | Notes written |
+| 19  | 2026 | LEA                         | Homomorphic Transciphering for Secure Migration from LEA-128 to LEA-256                 | [[019 - Homomorphic Transciphering for Secure Migration from LEA-128 to LEA-256]]                 | No local PDF  |
+| 20  | 2026 | AES - XBOOT                 | XBOOT: Free-XOR Gates for CKKS with Applications to Transciphering                      | [[020 - XBOOT - Free-XOR Gates for CKKS with Applications to Transciphering]]                     | Notes written |
+| 21  | 2020 | SM4                         | Homomorphic Evaluation of the SM4                                                       | [[021 - Homomorphic Evaluation of the SM4]]                                                       | Notes written |
+| 22  | 2025 | SM4                         | Improved Functional Bootstrapping of SM4 for Hybrid Homomorphic Encryption              | [[022 - Improved Functional Bootstrapping of SM4 for Hybrid Homomorphic Encryption]]              | No local PDF  |
+| 23  | 2025 | Chacha20                    | Efficient Transciphering with Chacha20                                                  | [[023 - Efficient Transciphering with Chacha20]]                                                  | Notes written |
+| 24  | 2026 | AES                         | Further Improvements in AES Execution over TFHE: Towards Breaking the 1 sec Barrier     | [[024 - Further Improvements in AES Execution over TFHE - Towards Breaking the 1 sec Barrier]]    | Notes written |
 
 # HE-Friendly Transciphering
 

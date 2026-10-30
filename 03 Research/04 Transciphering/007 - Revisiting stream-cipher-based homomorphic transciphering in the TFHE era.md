@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2021"
 link: "[here](https://dl.acm.org/doi/10.1007/978-3-031-08147-7_2)"
-file: ""
+file: "[[2021-FPS-Revisiting stream-cipher-based homomorphic transciphering in the TFHE.pdf]]"
 tags:
   - HE
   - HHE

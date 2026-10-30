@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2023"
 link: "[here](https://dl.acm.org/doi/10.1007/978-3-031-49187-0_20)"
-file: ""
+file: "[[2023-ISC-Fregata-Faster Homomorphic Evaluation of AES via TFHE.pdf]]"
 tags:
   - HE
   - HHE
