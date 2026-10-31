@@ -1,6 +1,6 @@
 > Reading progress: **59 of 59 papers with local PDFs have detailed notes**. 2 entries have no local PDF. All available PDFs have notes.
 
-> Source review: [[Transciphering - Notes Audit]] — initial audit of 21 existing notes and completion review of 38 newly written notes. Source inconsistencies and security limitations are flagged in the individual pages.
+> Source review: [[03 Research/04 Transciphering/Transciphering - Notes Audit|Transciphering - Notes Audit]] — initial audit of 21 existing notes and completion review of 38 newly written notes. Source inconsistencies and security limitations are flagged in the individual pages.
 
 # SoK & Surveys
 
