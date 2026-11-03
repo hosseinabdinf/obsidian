@@ -1,0 +1,14 @@
+Surpassing the Word Size Limitation of TFHE with Noise Calibration
+
+Authors: Takumi Nishimura; Kazunari Tozawa; Kunihiko Sadakane
+Venue: CCS 2025
+Venue scope: Texas A&M Tier 1
+Category: HE constructions and evaluation
+Publication record: https://dl.acm.org/doi/10.1145/3719027.3744808
+
+Retrieval status: No matching downloadable IACR/arXiv copy confirmed in this retrieval pass. This is a search limitation, not proof that no public PDF exists.
+
+
+
+
+Retry 2026-11-02: IACR PDF access remained blocked by a security-verification page after one normal reload. A title search did not confirm an arXiv alternative. No validated PDF was recovered in this retry. This does not establish that the paper is unavailable elsewhere.

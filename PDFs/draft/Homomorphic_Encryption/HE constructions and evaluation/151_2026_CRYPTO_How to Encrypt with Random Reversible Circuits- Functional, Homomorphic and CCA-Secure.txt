@@ -1,0 +1,14 @@
+How to Encrypt with Random Reversible Circuits: Functional, Homomorphic and CCA-Secure
+
+Authors: Ran Canetti; Ji Luo; Yilei Zhang
+Venue: CRYPTO 2026
+Venue scope: Texas A&M Tier 1
+Category: HE constructions and evaluation
+Publication record: https://doi.org/10.1007/978-3-032-35367-2_18
+
+Retrieval status: No matching downloadable IACR/arXiv copy confirmed in this retrieval pass. This is a search limitation, not proof that no public PDF exists.
+
+
+
+
+Retry 2026-11-02: IACR PDF access remained blocked by a security-verification page after one normal reload. A title search did not confirm an arXiv alternative. No validated PDF was recovered in this retry. This does not establish that the paper is unavailable elsewhere.
