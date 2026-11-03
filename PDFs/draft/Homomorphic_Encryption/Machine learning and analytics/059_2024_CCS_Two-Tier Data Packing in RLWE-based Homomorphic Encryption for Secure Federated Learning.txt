@@ -1,0 +1,14 @@
+Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning
+
+Authors: Yufei Zhou (Sun Yat-Sen University) Peijia Zheng (Sun Yat-Sen University) Xiaochun Cao (Sun Yat-Sen University) Jiwu Huang (Shenzhen MSU-BIT University)
+Venue: CCS 2024
+Venue scope: Texas A&M Tier 1
+Category: Machine learning and analytics
+Publication record: https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html
+
+Retrieval status: No matching downloadable IACR/arXiv copy confirmed in this retrieval pass. This is a search limitation, not proof that no public PDF exists.
+
+Title and venue verified in official conference list; URL points to that list.
+
+
+Retry 2026-11-02: IACR PDF access remained blocked by a security-verification page after one normal reload. A title search did not confirm an arXiv alternative. No validated PDF was recovered in this retry. This does not establish that the paper is unavailable elsewhere.
