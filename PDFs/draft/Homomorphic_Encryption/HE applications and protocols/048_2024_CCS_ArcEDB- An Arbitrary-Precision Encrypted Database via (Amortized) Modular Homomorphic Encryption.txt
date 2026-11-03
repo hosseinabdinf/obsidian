@@ -1,0 +1,15 @@
+ArcEDB: An Arbitrary-Precision Encrypted Database via (Amortized) Modular Homomorphic Encryption
+
+Authors: Zhou Zhang (Beihang University) Song Bian (Beihang University) Zian Zhao (Beihang University) Ran Mao (Beihang University) Haoyi Zhou (Beihang University) Jiafeng Hua (Huawei Technology) Yier Jin (University of Science and Technology of China) Zhenyu Guan (Beihang University)
+Venue: CCS 2024
+Venue scope: Texas A&M Tier 1
+Category: HE applications and protocols
+Publication record: https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html
+IACR/arXiv record: https://eprint.iacr.org/2024/1064
+
+Retrieval status: IACR copy identified; PDF not retrieved. Browser downloads failed or did not leave an attachable file, and the IACR PDF server subsequently returned HTTP 429 Too Many Requests. This does not mean no PDF exists.
+
+Title and venue verified in official conference list; URL points to that list.
+
+
+Retry 2026-11-02: IACR PDF access remained blocked by a security-verification page after one normal reload. A title search did not confirm an arXiv alternative. No validated PDF was recovered in this retry. This does not establish that the paper is unavailable elsewhere.
