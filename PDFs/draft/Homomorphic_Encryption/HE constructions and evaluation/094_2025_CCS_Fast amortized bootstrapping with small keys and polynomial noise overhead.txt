@@ -1,0 +1,15 @@
+Fast amortized bootstrapping with small keys and polynomial noise overhead
+
+Authors: Antonio Guimarães; Hilder V. L. Pereira
+Venue: CCS 2025
+Venue scope: Texas A&M Tier 1
+Category: HE constructions and evaluation
+Publication record: https://dl.acm.org/doi/10.1145/3719027.3765181
+IACR/arXiv record: https://eprint.iacr.org/2025/686
+
+Retrieval status: IACR copy identified; PDF not retrieved. Browser downloads failed or did not leave an attachable file, and the IACR PDF server subsequently returned HTTP 429 Too Many Requests. This does not mean no PDF exists.
+
+
+
+
+Retry 2026-11-02: IACR PDF access remained blocked by a security-verification page after one normal reload. A title search did not confirm an arXiv alternative. No validated PDF was recovered in this retry. This does not establish that the paper is unavailable elsewhere.
