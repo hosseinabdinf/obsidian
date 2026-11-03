@@ -8,3 +8,5 @@
 
 [[004 - The Beginner's Textbook for Fully Homomorphic Encryption]]
 
+[[005 - Homomorphic Encryption for Data Science (HE4DS)]]
+
