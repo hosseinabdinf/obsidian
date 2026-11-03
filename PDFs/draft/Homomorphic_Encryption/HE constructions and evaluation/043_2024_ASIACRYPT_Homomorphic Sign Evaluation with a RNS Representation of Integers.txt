@@ -1,0 +1,15 @@
+Homomorphic Sign Evaluation with a RNS Representation of Integers
+
+Authors: Philippe Chartier, Michel Koskas, Mohammed Lemou, Florian Méhats
+Venue: ASIACRYPT 2024
+Venue scope: Specialist extension (Texas A&M Tier 2)
+Category: HE constructions and evaluation
+Publication record: https://link.springer.com/chapter/10.1007/978-981-96-0875-1_9
+IACR/arXiv record: https://eprint.iacr.org/2024/156
+
+Retrieval status: IACR copy identified; PDF not retrieved. Browser downloads failed or did not leave an attachable file, and the IACR PDF server subsequently returned HTTP 429 Too Many Requests. This does not mean no PDF exists.
+
+Conference year retained; publisher copyright year can differ for ASIACRYPT. Author list may be abbreviated as supplied by proceedings. Specialist extension; Texas A&M Tier 2 and CORE2020 A. Exclude this venue to obtain the strict Tier 1 subset.
+
+
+Retry 2026-11-02: IACR PDF access remained blocked by a security-verification page after one normal reload. A title search did not confirm an arXiv alternative. No validated PDF was recovered in this retry. This does not establish that the paper is unavailable elsewhere.
