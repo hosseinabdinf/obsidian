@@ -5,3 +5,6 @@
 [[002 - Development of Optimized Operations for Homomorphic Cryptography]]
 
 [[003 - Practically Efficient Protocols for Private Computation using Homomorphic Encryption]]
+
+[[004 - The Beginner's Textbook for Fully Homomorphic Encryption]]
+
