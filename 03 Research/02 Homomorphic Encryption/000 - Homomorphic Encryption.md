@@ -204,36 +204,35 @@ Other
 - [Efficient Homomorphic Integer Computer from CKKS](https://eprint.iacr.org/2025/066)
 - [On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography](https://eprint.iacr.org/2021/1332)
 
-2026 - [Generalized Batched Decomposition Key-Switching for CKKS](https://eprint.iacr.org/2026/1340) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-Paper Generalized Batched Decomposition Key Switching for CKKS.pdf]] - [[001 - Generalized Batched Decomposition Key-Switching for CKKS|Paper note]]
+2026 - [Generalized Batched Decomposition Key-Switching for CKKS](https://eprint.iacr.org/2026/1340)
 
-2026 - [PSOs as fast as PSI: Efficient Private Set Operations from Batch Homomorphic OKVS Decoding](https://eprint.iacr.org/2026/1358) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-PSI PSOs as fast as PSI Efficient Private Set Operations from Batch Homomorphic OKVS Decoding.pdf]] - [[002 - PSOs as fast as PSI - Efficient Private Set Operations from Batch Homomorphic OKVS Decoding|Paper note]]
+2026 - [PSOs as fast as PSI: Efficient Private Set Operations from Batch Homomorphic OKVS Decoding](https://eprint.iacr.org/2026/1358) 
 
-2026 - [Slicing Boolean Functions with Inner Products](https://eprint.iacr.org/2026/1392) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-Slicing Slicing Boolean Functions with Inner Products.pdf]] - [[003 - Slicing Boolean Functions with Inner Products|Paper note]]
+2026 - [Slicing Boolean Functions with Inner Products](https://eprint.iacr.org/2026/1392)
 
-2026 - [A New Framework for Efficient Multivariate Functional Bootstrapping](https://eprint.iacr.org/2026/1401) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-Paper A New Framework for Efficient Multivariate Functional Bootstrapping.pdf]] - [[004 - A New Framework for Efficient Multivariate Functional Bootstrapping|Paper note]]
+2026 - [A New Framework for Efficient Multivariate Functional Bootstrapping](https://eprint.iacr.org/2026/1401) 
 
-2026 - [Simultaneous-Message and Succinct Secure Computation: Reusable and Multiparty Protocols](https://eprint.iacr.org/2026/1425) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-Paper Simultaneous Message and Succinct Secure Computation Reusable and Multiparty Protocols.pdf]] - [[005 - Simultaneous-Message and Succinct Secure Computation - Reusable and Multiparty Protocols|Paper note]]
+2026 - [Simultaneous-Message and Succinct Secure Computation: Reusable and Multiparty Protocols](https://eprint.iacr.org/2026/1425) 
 
-2026 - [Verifiable and Collusion-Resistant Multi-Party Quantum Private Set Operations](https://eprint.iacr.org/2026/1436) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-QPSO QPSO.pdf]] - [[006 - Verifiable and Collusion-Resistant Multi-Party Quantum Private Set Operations|Paper note]]
+2026 - [Verifiable and Collusion-Resistant Multi-Party Quantum Private Set Operations](https://eprint.iacr.org/2026/1436) 
 
-2026 - [SoK: On the Design of Secure Ranking-based E-voting Systems](https://eprint.iacr.org/2026/1437) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-SoK SoK On the Design of Secure Ranking Based E Voting Systems.pdf]] - [[007 - SoK - On the Design of Secure Ranking-based E-voting Systems|Paper note]]
-
-2026 - [Faster NTRU-based Bootstrapping with Extended and Sorting-based Techniques](https://eprint.iacr.org/2026/1447) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-NTRU Faster NTRU Based Bootstrapping with Extended and Sorting Based Techniques.pdf]] - [[008 - Faster NTRU-based Bootstrapping with Extended and Sorting-based Techniques|Paper note]]
+2026 - [SoK: On the Design of Secure Ranking-based E-voting Systems](https://eprint.iacr.org/2026/1437) 
+2026 - [Faster NTRU-based Bootstrapping with Extended and Sorting-based Techniques](https://eprint.iacr.org/2026/1447) 
 
 To Read
 
-- 2024 - ASIACRYPT - [Revisiting key decomposition techniques for FHE: Simpler, faster and more generic](https://eprint.iacr.org/2023/771) - ![[PDFs/02-Homomorphic Encryption/2024-IACR-KeyDecomposition Revisiting Key Decomposition Techniques for FHE Simpler Faster and More Generic.pdf]] - [[009 - Revisiting key decomposition techniques for FHE - Simpler, faster and more generic|Paper note]]
-- 2025 - CRYPTO - [High-Precision Exact FHE Made Simple, General, and Fast](https://eprint.iacr.org/2025/2321) - ![[PDFs/02-Homomorphic Encryption/2025-IACR-Paper High Precision Exact FHE Made Simple General and Fast.pdf]] - [[010 - High-Precision Exact FHE Made Simple, General, and Fast|Paper note]]
-- 2025 - CCS - [Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS](https://dl.acm.org/doi/abs/10.1145/3719027.3765083) - ![[PDFs/02-Homomorphic Encryption/2025-ACM CCS-Grafting Grafting Decoupled Scale Factors and Modulus in RNS CKKS.pdf]] - [[011 - Grafting - Decoupled Scale Factors and Modulus in RNS-CKKS|Paper note]]
-- 2026 - EUROCRYPT - [HERDS: Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping](https://eprint.iacr.org/2025/1804) - ![[PDFs/02-Homomorphic Encryption/2025-IACR-HERDS HERDS Multi Key Fully Homomorphic Encryption with Sublinear Bootstrapping.pdf]] - [[012 - HERDS - Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping|Paper note]]
+- 2024 - ASIACRYPT - [Revisiting key decomposition techniques for FHE: Simpler, faster and more generic](https://eprint.iacr.org/2023/771)  
+- 2025 - CRYPTO - [High-Precision Exact FHE Made Simple, General, and Fast](https://eprint.iacr.org/2025/2321)  
+- 2025 - CCS - [Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS](https://dl.acm.org/doi/abs/10.1145/3719027.3765083) 
+- 2026 - EUROCRYPT - [HERDS: Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping](https://eprint.iacr.org/2025/1804) 
 
-2026 - JCyber - [A survey of optimization techniques for bootstrapping algorithms in FHE](https://link.springer.com/article/10.1186/s42400-026-00571-w) - ![[PDFs/02-Homomorphic Encryption/2026-Cybersecurity-Survey A Survey of Optimization Techniques for Bootstrapping Algorithms in FHE.pdf]] - [[013 - A survey of optimization techniques for bootstrapping algorithms in FHE|Paper note]]
+2026 - JCyber - [A survey of optimization techniques for bootstrapping algorithms in FHE](https://link.springer.com/article/10.1186/s42400-026-00571-w) 
 
-2025 - IWSEC - [Approximate CRT-Based Gadget Decomposition and Application to TFHE Blind Rotation](https://eprint.iacr.org/2024/909) - ![[PDFs/02-Homomorphic Encryption/2024-IACR-CRT Approximate CRT Based Gadget Decomposition and Application to TFHE Blind Rotation.pdf]] - [[014 - Approximate CRT-Based Gadget Decomposition and Application to TFHE Blind Rotation|Paper note]]
+2025 - IWSEC - [Approximate CRT-Based Gadget Decomposition and Application to TFHE Blind Rotation](https://eprint.iacr.org/2024/909)
 
-2026 - [Practical Equivalent-Key Recovery in GRAFHEN](https://eprint.iacr.org/2026/1518.pdf) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-GRAFHEN Practical Equivalent Key Recovery in GRAFHEN.pdf]] - [[015 - Practical Equivalent-Key Recovery in GRAFHEN|Paper note]]
+2026 - [Practical Equivalent-Key Recovery in GRAFHEN](https://eprint.iacr.org/2026/1518.pdf)
 
-2026 - [More Efficient Lattice-based OLE](https://cic.iacr.org/p/3/1/26/pdf) - ![[PDFs/02-Homomorphic Encryption/2026-CIC-OLE More Efficient Lattice Based OLE from Circuit Private Linear HE with Polynomial Overhead.pdf]] - [[016 - More Efficient Lattice-based OLE|Paper note]]
+2026 - [More Efficient Lattice-based OLE](https://cic.iacr.org/p/3/1/26/pdf)
 
 
 ## Paper notes from draft
