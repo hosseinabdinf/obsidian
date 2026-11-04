@@ -28,3 +28,16 @@
 - [[018 - SLOTHE Lazy Approximation of Non-Arithmetic Neural Network Functions over Encrypted Data]]
 - [[019 - Kangaroo A Private and Amortized Inference Framework over WAN for Large-Scale Decision Tree Evaluation]]
 - [[020 - RBOOT Accelerating Homomorphic Neural Network Inference by Fusing ReLU within Bootstrapping]]
+
+
+## SEC-CAT paper placeholders
+
+### Machine learning and analytics
+
+- [[021 - HELiKs HE Linear Algebra Kernels for Secure Inference]]
+- [[022 - SoK Cryptographic Neural-Network Computation]]
+- [[023 - Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning]]
+- [[024 - From Individual Computation to Allied Optimization Remodeling Privacy-Preserving Neural Inference with Function Input Tuning]]
+- [[025 - Hyena Balancing Packing, Reuse, and Rotations for Encrypted Inference]]
+- [[001 - THOR - Secure Transformer Inference with Homomorphic Encryption]]
+- [[026 - WPC Weight Plaintext Compression for CNN Inference based on RNS-CKKS]]

@@ -104,3 +104,10 @@
 - [[037 - SortingHat - Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering]]
 - [[062 - Cryptanalysis of Elisabeth-4]]
 - [[045 - Transistor - a TFHE-friendly Stream Cipher]]
+
+
+## SEC-CAT paper placeholders
+
+### HHE and transciphering
+
+- [[057 - HERMES - Efficient Ring Packing using MLWE Ciphertexts and Application to Transciphering]]

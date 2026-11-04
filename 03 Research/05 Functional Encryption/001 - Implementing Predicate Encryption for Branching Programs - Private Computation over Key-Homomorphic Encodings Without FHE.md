@@ -2,7 +2,7 @@
 topic: functional encryption
 date: "2026-11-04"
 link: "[here](https://eprint.iacr.org/2026/2539)"
-file: "[[PDFs/05-Functional Encryption/2026-2539.pdf]]"
+file: "[[PDFs/05-Functional Encryption/2026-IACR-Implementing Predicate Encryption for Branching Programs - Private Computation over Key-Homomorphic Encodings Without FHE.pdf]]"
 tags:
 ---
 ---

@@ -2,7 +2,7 @@
 topic: machine learning
 date: "2026-11-04"
 link: "[here](https://eprint.iacr.org/2026/2532)"
-file: "[[PDFs/07-Machine Learning/2026-2532.pdf]]"
+file: "[[PDFs/07-Machine Learning/2026-IACR-HERMES - High-Performance Private Decoding for Large Language Models.pdf]]"
 tags:
 ---
 ---

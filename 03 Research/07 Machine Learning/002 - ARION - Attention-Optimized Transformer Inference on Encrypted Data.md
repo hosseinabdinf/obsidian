@@ -2,7 +2,7 @@
 topic: machine learning
 date: "2026-11-04"
 link: "[here](https://eprint.iacr.org/2025/2271)"
-file: "[[PDFs/07-Machine Learning/2025-2271.pdf]]"
+file: "[[PDFs/07-Machine Learning/2025-IACR-ARION - Attention-Optimized Transformer Inference on Encrypted Data.pdf]]"
 tags:
 ---
 ---
