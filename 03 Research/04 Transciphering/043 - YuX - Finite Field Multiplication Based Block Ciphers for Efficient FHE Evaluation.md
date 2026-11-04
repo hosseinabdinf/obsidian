@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2024"
 link: "[here](https://ieeexplore.ieee.org/abstract/document/10379822)"
-file: "[[2024-IEEE TIT-YuX YuX Finite Field Multiplication Based Block Ciphers for Efficient FHE Evaluation.pdf]]"
+file: "[[PDFs/04-Transciphering/2024-IEEE TIT-YuX YuX Finite Field Multiplication Based Block Ciphers for Efficient FHE Evaluation.pdf]]"
 tags:
   - HE
   - HHE

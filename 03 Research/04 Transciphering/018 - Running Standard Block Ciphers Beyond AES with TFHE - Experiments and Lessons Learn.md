@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://cic.iacr.org/p/2/4/19)"
-file: "[[2026-CIC-TFHE Running Standard Block Ciphers Beyond AES with TFHE Experiments and Lessons Learnt.pdf]]"
+file: "[[PDFs/04-Transciphering/2026-CIC-TFHE Running Standard Block Ciphers Beyond AES with TFHE Experiments and Lessons Learnt.pdf]]"
 tags:
   - HE
   - HHE

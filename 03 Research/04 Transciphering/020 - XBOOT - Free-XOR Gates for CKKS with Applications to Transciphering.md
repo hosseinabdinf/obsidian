@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2026"
 link: "[here](https://tches.iacr.org/index.php/TCHES/article/view/12406)"
-file: "[[2025-TCHES-XBOOT XBOOT Free XOR Gates for CKKS with Applications to Transciphering.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-TCHES-XBOOT XBOOT Free XOR Gates for CKKS with Applications to Transciphering.pdf]]"
 tags:
   - HE
   - HHE

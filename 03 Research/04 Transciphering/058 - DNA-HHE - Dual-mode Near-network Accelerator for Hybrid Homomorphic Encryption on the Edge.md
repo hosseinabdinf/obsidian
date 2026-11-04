@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://arxiv.org/abs/2512.18589)"
-file: "[[2025-arXiv-DNAHHE DNA HHE Dual Mode Near Network Accelerator for Hybrid Homomorphic Encryption on the Edge.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-arXiv-DNAHHE DNA HHE Dual Mode Near Network Accelerator for Hybrid Homomorphic Encryption on the Edge.pdf]]"
 tags:
   - HE
   - HHE

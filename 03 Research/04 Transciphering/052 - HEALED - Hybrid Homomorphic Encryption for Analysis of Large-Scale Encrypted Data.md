@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2026"
 link: "[here](https://www.scitepress.org/Papers/2026/143571/143571.pdf)"
-file: "[[2026-ICISSP-HEALED HEALED Hybrid Homomorphic Encryption for Analysis of Large Scale Encrypted Data.pdf]]"
+file: "[[PDFs/04-Transciphering/2026-ICISSP-HEALED HEALED Hybrid Homomorphic Encryption for Analysis of Large Scale Encrypted Data.pdf]]"
 tags:
   - HE
   - HHE

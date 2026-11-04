@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://eprint.iacr.org/2025/1865)"
-file: "[[2025-IACR-Paper High Throughput AES Transciphering using CKKS Less than 1ms.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-IACR-Paper High Throughput AES Transciphering using CKKS Less than 1ms.pdf]]"
 tags:
   - HE
   - HHE

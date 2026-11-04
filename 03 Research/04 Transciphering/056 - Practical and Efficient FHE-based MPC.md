@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2023"
 link: "[here](https://eprint.iacr.org/2023/981)"
-file: "[[2023-IACR-FHEMPC Practical and Efficient FHE Based MPC.pdf]]"
+file: "[[PDFs/04-Transciphering/2023-IACR-FHEMPC Practical and Efficient FHE Based MPC.pdf]]"
 tags:
   - HE
   - HHE

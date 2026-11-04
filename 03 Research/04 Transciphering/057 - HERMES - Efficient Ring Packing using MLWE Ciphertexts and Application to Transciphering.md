@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2023"
 link: "[here](https://eprint.iacr.org/2023/1244)"
-file: "[[2024-TCHES-HERMES HERMES Efficient Ring Packing using MLWE Ciphertexts and Application to Transciphering.pdf]]"
+file: "[[PDFs/04-Transciphering/2024-TCHES-HERMES HERMES Efficient Ring Packing using MLWE Ciphertexts and Application to Transciphering.pdf]]"
 tags:
   - HE
   - HHE

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2023"
 link: "[here](https://dl.acm.org/doi/abs/10.1145/3576915.3624377)"
-file: "[[2023-ACM CCS-AESGCM Poster Efficient AES GCM Decryption Under Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2023-ACM CCS-AESGCM Poster Efficient AES GCM Decryption Under Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE

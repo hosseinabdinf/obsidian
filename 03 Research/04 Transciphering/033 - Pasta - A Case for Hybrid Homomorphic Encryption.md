@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2021"
 link: "[here](https://eprint.iacr.org/2021/731)"
-file: "[[2023-IACR-Pasta Pasta A Case for Hybrid Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2023-IACR-Pasta Pasta A Case for Hybrid Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE

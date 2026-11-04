@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2023"
 link: "[here](https://eprint.iacr.org/2023/1111)"
-file: "[[2023-DAS-FunctionalBootstrapping Optimized Stream Cipher Based Transciphering by Means of Functional Bootstrapping.pdf]]"
+file: "[[PDFs/04-Transciphering/2023-DAS-FunctionalBootstrapping Optimized Stream Cipher Based Transciphering by Means of Functional Bootstrapping.pdf]]"
 tags:
   - HE
   - HHE

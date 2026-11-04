@@ -2,7 +2,7 @@
 topic: Homomorphic Encryption
 date: "2024"
 link: "[here](https://link.springer.com/book/10.1007/978-3-031-65494-7)"
-file: "[[2024-Book-Homomorphic Encryption for Data Science (HE4DS).pdf]]"
+file: "[[PDFs/01-Background/2024-Book-Homomorphic Encryption for Data Science (HE4DS).pdf]]"
 tags:
   - HE
 ---

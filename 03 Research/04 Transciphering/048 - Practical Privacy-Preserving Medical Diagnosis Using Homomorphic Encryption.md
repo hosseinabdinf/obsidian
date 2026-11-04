@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2016"
 link: "[here](https://ieeexplore.ieee.org/abstract/document/7820321)"
-file: "[[2016-CLOUD-MedDiag Practical Privacy Preserving Medical Diagnosis Using Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2016-CLOUD-MedDiag Practical Privacy Preserving Medical Diagnosis Using Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE

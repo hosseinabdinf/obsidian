@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2023"
 link: "[here](https://eprint.iacr.org/2023/980)"
-file: "[[2023-IACR-Trivium Trivial Transciphering With Trivium and TFHE.pdf]]"
+file: "[[PDFs/04-Transciphering/2023-IACR-Trivium Trivial Transciphering With Trivium and TFHE.pdf]]"
 tags:
   - HE
   - HHE

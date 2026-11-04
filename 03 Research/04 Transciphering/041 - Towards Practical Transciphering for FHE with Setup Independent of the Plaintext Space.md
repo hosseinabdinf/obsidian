@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2024"
 link: "[here](https://eprint.iacr.org/2023/1531)"
-file: "[[2024-CIC-Transciphering Towards Practical Transciphering for FHE with Setup Independent of the Plaintext Space.pdf]]"
+file: "[[PDFs/04-Transciphering/2024-CIC-Transciphering Towards Practical Transciphering for FHE with Setup Independent of the Plaintext Space.pdf]]"
 tags:
   - HE
   - HHE

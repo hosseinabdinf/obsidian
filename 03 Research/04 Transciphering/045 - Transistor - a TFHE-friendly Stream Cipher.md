@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://eprint.iacr.org/2025/282)"
-file: "[[2025-IACR-Transistor Transistor A TFHE Friendly Stream Cipher.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-IACR-Transistor Transistor A TFHE Friendly Stream Cipher.pdf]]"
 tags:
   - HE
   - HHE
@@ -126,3 +126,8 @@ flowchart LR
 
 - [[000 - Transciphering HE]]
 - Silent LFSRs, odd-modulus TFHE, AES-inspired FSMs, correlation attacks, seeded ciphertext compression.
+
+
+## Additional PDF version
+
+- [[PDFs/04-Transciphering/2025-CRYPTO-Transistor a TFHE-Friendly Stream Cipher.pdf|2025-CRYPTO-Transistor a TFHE-Friendly Stream Cipher.pdf]]

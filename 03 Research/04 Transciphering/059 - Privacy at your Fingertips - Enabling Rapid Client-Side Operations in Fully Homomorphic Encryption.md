@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2026"
 link: "[here](https://eprint.iacr.org/2026/515)"
-file: "[[2026-IACR-Paper Privacy at your Fingertips Enabling Rapid Client Side Operations in Fully Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2026-IACR-Paper Privacy at your Fingertips Enabling Rapid Client Side Operations in Fully Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE

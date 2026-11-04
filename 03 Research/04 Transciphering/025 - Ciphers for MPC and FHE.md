@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2015"
 link: "[here](https://eprint.iacr.org/2016/687)"
-file: "[[2016-IACR-Ciphers Ciphers for MPC and FHE.pdf]]"
+file: "[[PDFs/04-Transciphering/2016-IACR-Ciphers Ciphers for MPC and FHE.pdf]]"
 tags:
   - HE
   - HHE

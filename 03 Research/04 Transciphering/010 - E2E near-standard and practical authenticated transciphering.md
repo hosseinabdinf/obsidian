@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2023"
 link: "[here](https://eprint.iacr.org/2023/1040)"
-file: "[[2024-IACR-E2E E2E Near Standard and Practical Authenticated Transciphering.pdf]]"
+file: "[[PDFs/04-Transciphering/2024-IACR-E2E E2E Near Standard and Practical Authenticated Transciphering.pdf]]"
 tags:
   - HE
   - HHE

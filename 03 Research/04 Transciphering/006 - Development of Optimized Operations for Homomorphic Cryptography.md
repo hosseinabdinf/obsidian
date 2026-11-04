@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://www.nicolasbon.com/assets/pdf/phd.pdf)"
-file: "[[2025-Thesis-Development of Optimized Operations for Homomorphic Cryptography.pdf]]"
+file: "[[PDFs/01-Background/2025-Thesis-Development of Optimized Operations for Homomorphic Cryptography.pdf]]"
 tags:
   - HE
   - HHE

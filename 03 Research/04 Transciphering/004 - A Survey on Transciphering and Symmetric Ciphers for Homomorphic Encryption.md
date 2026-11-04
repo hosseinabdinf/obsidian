@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://eprint.iacr.org/2025/093)"
-file: "[[2025-IACR-Survey A Survey on Transciphering and Symmetric Ciphers for Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-IACR-Survey A Survey on Transciphering and Symmetric Ciphers for Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE

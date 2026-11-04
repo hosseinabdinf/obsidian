@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2022"
 link: "[here](https://eprint.iacr.org/2022/592)"
-file: "[[2022-IACR-Chaghri Chaghri A FHE Friendly Block Cipher.pdf]]"
+file: "[[PDFs/04-Transciphering/2022-IACR-Chaghri Chaghri A FHE Friendly Block Cipher.pdf]]"
 tags:
   - HE
   - HHE
@@ -105,3 +105,8 @@ flowchart LR
 
 - [[000 - Transciphering HE]]
 - Marvellous/Vision, Gold functions, binary extension fields, Frobenius automorphisms, BGV packing.
+
+
+## Additional PDF version
+
+- [[PDFs/04-Transciphering/2022-CCS-Chaghri - An FHE-friendly Block Cipher.pdf|2022-CCS-Chaghri - An FHE-friendly Block Cipher.pdf]]

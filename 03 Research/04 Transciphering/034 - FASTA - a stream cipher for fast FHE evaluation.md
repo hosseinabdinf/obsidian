@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2022"
 link: "[here](https://eprint.iacr.org/2021/1205)"
-file: "[[2021-IACR-FASTA FASTA A Stream Cipher for Fast FHE Evaluation.pdf]]"
+file: "[[PDFs/04-Transciphering/2021-IACR-FASTA FASTA A Stream Cipher for Fast FHE Evaluation.pdf]]"
 tags:
   - HE
   - HHE

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2022"
 link: "[here](https://eprint.iacr.org/2022/180)"
-file: "[[2022-IACR-Paper Towards Case Optimized Hybrid Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2022-IACR-Paper Towards Case Optimized Hybrid Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE
@@ -113,3 +113,8 @@ flowchart LR
 
 - [[000 - Transciphering HE]]
 - FiLIP, group filter permutators, negacyclic LUTs, TFHE key switching, quantized inference.
+
+
+## Additional PDF version
+
+- [[PDFs/04-Transciphering/2022-ASIACRYPT-Towards Case-Optimized Hybrid Homomorphic Encryption Featuring the Elisabeth Stream Cipher.pdf|2022-ASIACRYPT-Towards Case-Optimized Hybrid Homomorphic Encryption Featuring the Elisabeth Stream Cipher.pdf]]

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2018"
 link: "[here](https://ieeexplore.ieee.org/abstract/document/8364056)"
-file: "[[2018-FMEC-Genomics Practical Personalized Genomics in the Encrypted Domain.pdf]]"
+file: "[[PDFs/04-Transciphering/2018-FMEC-Genomics Practical Personalized Genomics in the Encrypted Domain.pdf]]"
 tags:
   - HE
   - HHE

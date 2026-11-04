@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2026"
 link: "[here](https://eprint.iacr.org/2026/1517.pdf)"
-file: "[[2026-IACR-VectorHSS ConvertInput Free Vector Homomorphic Secret Sharing and Its Applications.pdf]]"
+file: "[[PDFs/04-Transciphering/2026-IACR-VectorHSS ConvertInput Free Vector Homomorphic Secret Sharing and Its Applications.pdf]]"
 tags:
   - HE
   - HHE

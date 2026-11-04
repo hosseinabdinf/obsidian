@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2019"
 link: "[here](https://link.springer.com/chapter/10.1007/978-3-030-35423-7_4)"
-file: "[[2019-IACR-FiLIP Improved Filter Permutators for Efficient FHE Better Instances and Implementations.pdf]]"
+file: "[[PDFs/04-Transciphering/2019-IACR-FiLIP Improved Filter Permutators for Efficient FHE Better Instances and Implementations.pdf]]"
 tags:
   - HE
   - HHE

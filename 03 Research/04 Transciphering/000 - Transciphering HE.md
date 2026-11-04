@@ -93,3 +93,14 @@
 | --- | --- | --- | --- | --- | --- |
 | 60 | 2026 | — | From PQC to HHE: Reusing a Co-Design Platform for Side-Channel-Protected PASTA | [[060 - From PQC to HHE - Reusing a Co-Design Platform for Side-Channel-Protected PASTA]] | Notes written |
 | 61 | 2026 | — | ConvertInput-Free Vector Homomorphic Secret Sharing and Its Applications | [[061 - ConvertInput-Free Vector Homomorphic Secret Sharing and Its Applications]] | Notes written |
+
+
+## SEC-CAT paper collection
+
+### HHE and transciphering
+
+- [[035 - Towards Case-Optimized Hybrid Homomorphic Encryption]]
+- [[038 - Chaghri --- an FHE-friendly Block Cipher]]
+- [[037 - SortingHat - Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering]]
+- [[062 - Cryptanalysis of Elisabeth-4]]
+- [[045 - Transistor - a TFHE-friendly Stream Cipher]]

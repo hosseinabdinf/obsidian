@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2024"
 link: "[here](https://eprint.iacr.org/2023/1589)"
-file: "[[2024-IACR-BooleanFunctions Optimized Homomorphic Evaluation of Boolean Functions.pdf]]"
+file: "[[PDFs/04-Transciphering/2024-IACR-BooleanFunctions Optimized Homomorphic Evaluation of Boolean Functions.pdf]]"
 tags:
   - HE
   - HHE

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://eprint.iacr.org/2024/791)"
-file: "[[2024-IACR-Paper Minimize the Randomness in Rasta Like Designs How Far Can We Go.pdf]]"
+file: "[[PDFs/04-Transciphering/2024-IACR-Paper Minimize the Randomness in Rasta Like Designs How Far Can We Go.pdf]]"
 tags:
   - HE
   - HHE

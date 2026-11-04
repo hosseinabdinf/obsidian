@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2018"
 link: "[here](https://eprint.iacr.org/2015/113.pdf)"
-file: "[[2016-FSE-StreamCiphers Stream Ciphers A Practical Solution for Efficient Homomorphic Ciphertext Compression.pdf]]"
+file: "[[PDFs/04-Transciphering/2016-FSE-StreamCiphers Stream Ciphers A Practical Solution for Efficient Homomorphic Ciphertext Compression.pdf]]"
 tags:
   - HE
   - HHE

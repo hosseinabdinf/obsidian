@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2026"
 link: "[here](https://eprint.iacr.org/2026/1485.pdf)"
-file: "[[2026-IACR-PQC From PQC to HHE Reusing a Co Design Platform for Side Channel Protected PASTA.pdf]]"
+file: "[[PDFs/04-Transciphering/2026-IACR-PQC From PQC to HHE Reusing a Co Design Platform for Side Channel Protected PASTA.pdf]]"
 tags:
   - HE
   - HHE

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2018"
 link: "[here](https://eprint.iacr.org/2018/181)"
-file: "[[2018-CRYPTO-Rasta Rasta A Cipher with Low ANDdepth and Few ANDs per Bit.pdf]]"
+file: "[[PDFs/04-Transciphering/2018-CRYPTO-Rasta Rasta A Cipher with Low ANDdepth and Few ANDs per Bit.pdf]]"
 tags:
   - HE
   - HHE

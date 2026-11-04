@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2022"
 link: "[here](https://eprint.iacr.org/2022/757)"
-file: "[[2022-IACR-Paper SortingHat Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering.pdf]]"
+file: "[[PDFs/04-Transciphering/2022-IACR-Paper SortingHat Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering.pdf]]"
 tags:
   - HE
   - HHE
@@ -109,3 +109,8 @@ flowchart LR
 
 - [[000 - Transciphering HE]]
 - FiLIP-144, FINAL, monomial encoding, private inference, external products, circuit privacy.
+
+
+## Additional PDF version
+
+- [[PDFs/04-Transciphering/2022-CCS-SortingHat Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering.pdf|2022-CCS-SortingHat Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering.pdf]]

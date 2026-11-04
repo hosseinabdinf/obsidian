@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2022"
 link: "[here](https://eprint.iacr.org/2023/480)"
-file: "[[2023-IACR-Hash Practical Homomorphic Evaluation of Block Cipher Based Hash Functions with Applications.pdf]]"
+file: "[[PDFs/04-Transciphering/2023-IACR-Hash Practical Homomorphic Evaluation of Block Cipher Based Hash Functions with Applications.pdf]]"
 tags:
   - HE
   - HHE

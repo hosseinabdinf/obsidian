@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://theses.hal.science/tel-05409543/)"
-file: "[[2025-Thesis-TFHE Designing a Universal Homomorphic Instruction Set and Applications to Transciphering with TFHE.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-Thesis-TFHE Designing a Universal Homomorphic Instruction Set and Applications to Transciphering with TFHE.pdf]]"
 tags:
   - HE
   - HHE

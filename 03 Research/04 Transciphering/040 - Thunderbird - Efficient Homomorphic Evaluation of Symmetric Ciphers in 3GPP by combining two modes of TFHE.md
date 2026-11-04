@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2024"
 link: "[here](https://tches.iacr.org/index.php/TCHES/article/view/11687)"
-file: "[[2024-TCHES-Thunderbird Thunderbird Efficient Homomorphic Evaluation of Symmetric Ciphers in 3GPP by Combining Two Modes of TFHE.pdf]]"
+file: "[[PDFs/04-Transciphering/2024-TCHES-Thunderbird Thunderbird Efficient Homomorphic Evaluation of Symmetric Ciphers in 3GPP by Combining Two Modes of TFHE.pdf]]"
 tags:
   - HE
   - HHE

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2024"
 link: "[here](https://eprint.iacr.org/2024/118)"
-file: "[[2024-IACR-DataPrivacy Data Privacy Made Easy Enhancing Applications with Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2024-IACR-DataPrivacy Data Privacy Made Easy Enhancing Applications with Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE

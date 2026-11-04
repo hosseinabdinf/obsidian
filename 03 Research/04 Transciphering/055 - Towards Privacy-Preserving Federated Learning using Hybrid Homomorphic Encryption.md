@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2026"
 link: "[here](https://arxiv.org/abs/2603.26417)"
-file: "[[2026-arXiv-FederatedLearning Towards Privacy Preserving Federated Learning using Hybrid Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2026-arXiv-FederatedLearning Towards Privacy Preserving Federated Learning using Hybrid Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE

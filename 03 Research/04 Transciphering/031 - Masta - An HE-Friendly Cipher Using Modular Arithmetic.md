@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2020"
 link: "[here](https://ieeexplore.ieee.org/abstract/document/9240936)"
-file: "[[2020-Access-Masta Masta An HE Friendly Cipher Using Modular Arithmetic.pdf]]"
+file: "[[PDFs/04-Transciphering/2020-Access-Masta Masta An HE Friendly Cipher Using Modular Arithmetic.pdf]]"
 tags:
   - HE
   - HHE

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2020"
 link: "[here](https://eprint.iacr.org/2020/1340)"
-file: "[[2020-IACR-SM4 Homomorphic Evaluation of the SM4 Yu Xue.pdf]]"
+file: "[[PDFs/04-Transciphering/2020-IACR-SM4 Homomorphic Evaluation of the SM4 Yu Xue.pdf]]"
 tags:
   - HE
   - HHE

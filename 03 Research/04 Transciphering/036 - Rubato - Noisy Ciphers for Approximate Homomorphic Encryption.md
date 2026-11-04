@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2022"
 link: "[here](https://eprint.iacr.org/2022/537)"
-file: "[[2023-ASIACRYPT-Rubato Rubato Noisy Ciphers for Approximate Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2023-ASIACRYPT-Rubato Rubato Noisy Ciphers for Approximate Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE

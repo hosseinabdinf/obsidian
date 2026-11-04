@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2024"
 link: "[here](https://eprint.iacr.org/2024/745)"
-file: "[[2024-ToSC-FRAST FRAST TFHE Friendly Cipher Based on Random S Boxes.pdf]]"
+file: "[[PDFs/04-Transciphering/2024-ToSC-FRAST FRAST TFHE Friendly Cipher Based on Random S Boxes.pdf]]"
 tags:
   - HE
   - HHE

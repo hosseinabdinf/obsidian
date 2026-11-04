@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://sol.sbc.org.br/index.php/sbseg/article/view/36678)"
-file: "[[2025-SBSeg-Chacha20 Efficient Transciphering with Chacha20.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-SBSeg-Chacha20 Efficient Transciphering with Chacha20.pdf]]"
 tags:
   - HE
   - HHE

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://eprint.iacr.org/2024/1702)"
-file: "[[2025-IACR-MPC Secure and Efficient Transciphering for FHE Based MPC.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-IACR-MPC Secure and Efficient Transciphering for FHE Based MPC.pdf]]"
 tags:
   - HE
   - HHE

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2023"
 link: "[here](https://ieeexplore.ieee.org/abstract/document/10374697)"
-file: "[[2023-WIFS-MTPRO MT PRO Multibiometric Template Protection Based on Homomorphic Transciphering.pdf]]"
+file: "[[PDFs/04-Transciphering/2023-WIFS-MTPRO MT PRO Multibiometric Template Protection Based on Homomorphic Transciphering.pdf]]"
 tags:
   - HE
   - HHE

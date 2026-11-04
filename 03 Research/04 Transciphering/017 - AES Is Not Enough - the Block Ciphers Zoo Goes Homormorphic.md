@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://eprint.iacr.org/2025/782)"
-file: "[[2025-IACR-AES AES Is Not Enough the Block Ciphers Zoo Goes Homomorphic over TFHE.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-IACR-AES AES Is Not Enough the Block Ciphers Zoo Goes Homomorphic over TFHE.pdf]]"
 tags:
   - HE
   - HHE

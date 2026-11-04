@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2021"
 link: "[here](https://eprint.iacr.org/2020/1335)"
-file: "[[2021-ASIACRYPT-Transciphering Transciphering Framework for Approximate Homomorphic Encryption.pdf]]"
+file: "[[PDFs/04-Transciphering/2021-ASIACRYPT-Transciphering Transciphering Framework for Approximate Homomorphic Encryption.pdf]]"
 tags:
   - HE
   - HHE

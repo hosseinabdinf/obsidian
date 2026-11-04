@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2020"
 link: "[here](https://eprint.iacr.org/2020/1373)"
-file: "[[2020-INDOCRYPT-FiLIP Transciphering Using FiLIP and TFHE for Efficient Delegation of Computation.pdf]]"
+file: "[[PDFs/04-Transciphering/2020-INDOCRYPT-FiLIP Transciphering Using FiLIP and TFHE for Efficient Delegation of Computation.pdf]]"
 tags:
   - HE
   - HHE

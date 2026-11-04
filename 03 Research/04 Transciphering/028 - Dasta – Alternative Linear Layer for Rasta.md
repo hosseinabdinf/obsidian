@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2020"
 link: "[here](https://tosc.iacr.org/index.php/ToSC/article/view/8696)"
-file: "[[2020-ToSC-Dasta Dasta Alternative Linear Layer for Rasta.pdf]]"
+file: "[[PDFs/04-Transciphering/2020-ToSC-Dasta Dasta Alternative Linear Layer for Rasta.pdf]]"
 tags:
   - HE
   - HHE

@@ -2,7 +2,7 @@
 topic: Hybrid Homomorphic Encryption
 date: "2025"
 link: "[here](https://eprint.iacr.org/2024/1318)"
-file: "[[2025-IACR-TFHE Refined TFHE Leveled Homomorphic Evaluation and Its Application.pdf]]"
+file: "[[PDFs/04-Transciphering/2025-IACR-TFHE Refined TFHE Leveled Homomorphic Evaluation and Its Application.pdf]]"
 tags:
   - HE
   - HHE

@@ -204,33 +204,161 @@ Other
 - [Efficient Homomorphic Integer Computer from CKKS](https://eprint.iacr.org/2025/066)
 - [On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography](https://eprint.iacr.org/2021/1332)
 
-2026 - [Generalized Batched Decomposition Key-Switching for CKKS](https://eprint.iacr.org/2026/1340) - ![[2026-1340_1784731632930_0.pdf]]
+2026 - [Generalized Batched Decomposition Key-Switching for CKKS](https://eprint.iacr.org/2026/1340) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-Paper Generalized Batched Decomposition Key Switching for CKKS.pdf]] - [[001 - Generalized Batched Decomposition Key-Switching for CKKS|Paper note]]
 
-2026 - [PSOs as fast as PSI: Efficient Private Set Operations from Batch Homomorphic OKVS Decoding](https://eprint.iacr.org/2026/1358) - ![[2026-1358_1784731702806_0.pdf]]
+2026 - [PSOs as fast as PSI: Efficient Private Set Operations from Batch Homomorphic OKVS Decoding](https://eprint.iacr.org/2026/1358) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-PSI PSOs as fast as PSI Efficient Private Set Operations from Batch Homomorphic OKVS Decoding.pdf]] - [[002 - PSOs as fast as PSI - Efficient Private Set Operations from Batch Homomorphic OKVS Decoding|Paper note]]
 
-2026 - [Slicing Boolean Functions with Inner Products](https://eprint.iacr.org/2026/1392) - ![[2026-1392_1784731765567_0.pdf]]
+2026 - [Slicing Boolean Functions with Inner Products](https://eprint.iacr.org/2026/1392) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-Slicing Slicing Boolean Functions with Inner Products.pdf]] - [[003 - Slicing Boolean Functions with Inner Products|Paper note]]
 
-2026 - [A New Framework for Efficient Multivariate Functional Bootstrapping](https://eprint.iacr.org/2026/1401) - ![[2026-1401_1784731804342_0.pdf]]
+2026 - [A New Framework for Efficient Multivariate Functional Bootstrapping](https://eprint.iacr.org/2026/1401) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-Paper A New Framework for Efficient Multivariate Functional Bootstrapping.pdf]] - [[004 - A New Framework for Efficient Multivariate Functional Bootstrapping|Paper note]]
 
-2026 - [Simultaneous-Message and Succinct Secure Computation: Reusable and Multiparty Protocols](https://eprint.iacr.org/2026/1425) - ![[2026-1425_1784731893462_0.pdf]]
+2026 - [Simultaneous-Message and Succinct Secure Computation: Reusable and Multiparty Protocols](https://eprint.iacr.org/2026/1425) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-Paper Simultaneous Message and Succinct Secure Computation Reusable and Multiparty Protocols.pdf]] - [[005 - Simultaneous-Message and Succinct Secure Computation - Reusable and Multiparty Protocols|Paper note]]
 
-2026 - [Verifiable and Collusion-Resistant Multi-Party Quantum Private Set Operations](https://eprint.iacr.org/2026/1436) - ![[2026-1436_1784731967669_0.pdf]]
+2026 - [Verifiable and Collusion-Resistant Multi-Party Quantum Private Set Operations](https://eprint.iacr.org/2026/1436) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-QPSO QPSO.pdf]] - [[006 - Verifiable and Collusion-Resistant Multi-Party Quantum Private Set Operations|Paper note]]
 
-2026 - [SoK: On the Design of Secure Ranking-based E-voting Systems](https://eprint.iacr.org/2026/1437) - ![[2026-1437_1784732545496_0.pdf]]
+2026 - [SoK: On the Design of Secure Ranking-based E-voting Systems](https://eprint.iacr.org/2026/1437) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-SoK SoK On the Design of Secure Ranking Based E Voting Systems.pdf]] - [[007 - SoK - On the Design of Secure Ranking-based E-voting Systems|Paper note]]
 
-2026 - [Faster NTRU-based Bootstrapping with Extended and Sorting-based Techniques](https://eprint.iacr.org/2026/1447) - ![[2026-1447_1784732601260_0.pdf]]
+2026 - [Faster NTRU-based Bootstrapping with Extended and Sorting-based Techniques](https://eprint.iacr.org/2026/1447) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-NTRU Faster NTRU Based Bootstrapping with Extended and Sorting Based Techniques.pdf]] - [[008 - Faster NTRU-based Bootstrapping with Extended and Sorting-based Techniques|Paper note]]
 
 To Read
 
-- 2024 - ASIACRYPT - [Revisiting key decomposition techniques for FHE: Simpler, faster and more generic](https://eprint.iacr.org/2023/771) - ![[2023-771_1784790558140_0.pdf]]
-- 2025 - CRYPTO - [High-Precision Exact FHE Made Simple, General, and Fast](https://eprint.iacr.org/2025/2321) - ![[2025-2321_1784790894495_0.pdf]]
-- 2025 - CCS - [Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS](https://dl.acm.org/doi/abs/10.1145/3719027.3765083) - ![[3719027.3765083_1784791063321_0.pdf]]
-- 2026 - EUROCRYPT - [HERDS: Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping](https://eprint.iacr.org/2025/1804) - ![[2025-1804_1784791146796_0.pdf]]
+- 2024 - ASIACRYPT - [Revisiting key decomposition techniques for FHE: Simpler, faster and more generic](https://eprint.iacr.org/2023/771) - ![[PDFs/02-Homomorphic Encryption/2024-IACR-KeyDecomposition Revisiting Key Decomposition Techniques for FHE Simpler Faster and More Generic.pdf]] - [[009 - Revisiting key decomposition techniques for FHE - Simpler, faster and more generic|Paper note]]
+- 2025 - CRYPTO - [High-Precision Exact FHE Made Simple, General, and Fast](https://eprint.iacr.org/2025/2321) - ![[PDFs/02-Homomorphic Encryption/2025-IACR-Paper High Precision Exact FHE Made Simple General and Fast.pdf]] - [[010 - High-Precision Exact FHE Made Simple, General, and Fast|Paper note]]
+- 2025 - CCS - [Grafting: Decoupled Scale Factors and Modulus in RNS-CKKS](https://dl.acm.org/doi/abs/10.1145/3719027.3765083) - ![[PDFs/02-Homomorphic Encryption/2025-ACM CCS-Grafting Grafting Decoupled Scale Factors and Modulus in RNS CKKS.pdf]] - [[011 - Grafting - Decoupled Scale Factors and Modulus in RNS-CKKS|Paper note]]
+- 2026 - EUROCRYPT - [HERDS: Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping](https://eprint.iacr.org/2025/1804) - ![[PDFs/02-Homomorphic Encryption/2025-IACR-HERDS HERDS Multi Key Fully Homomorphic Encryption with Sublinear Bootstrapping.pdf]] - [[012 - HERDS - Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping|Paper note]]
 
-2026 - JCyber - [A survey of optimization techniques for bootstrapping algorithms in FHE](https://link.springer.com/article/10.1186/s42400-026-00571-w) - ![[s42400-026-00571-w_1784791299035_0.pdf]]
+2026 - JCyber - [A survey of optimization techniques for bootstrapping algorithms in FHE](https://link.springer.com/article/10.1186/s42400-026-00571-w) - ![[PDFs/02-Homomorphic Encryption/2026-Cybersecurity-Survey A Survey of Optimization Techniques for Bootstrapping Algorithms in FHE.pdf]] - [[013 - A survey of optimization techniques for bootstrapping algorithms in FHE|Paper note]]
 
-2025 - IWSEC - [Approximate CRT-Based Gadget Decomposition and Application to TFHE Blind Rotation](https://eprint.iacr.org/2024/909) - ![[2024-909_1784791665675_0.pdf]]
+2025 - IWSEC - [Approximate CRT-Based Gadget Decomposition and Application to TFHE Blind Rotation](https://eprint.iacr.org/2024/909) - ![[PDFs/02-Homomorphic Encryption/2024-IACR-CRT Approximate CRT Based Gadget Decomposition and Application to TFHE Blind Rotation.pdf]] - [[014 - Approximate CRT-Based Gadget Decomposition and Application to TFHE Blind Rotation|Paper note]]
 
-2026 - [Practical Equivalent-Key Recovery in GRAFHEN](https://eprint.iacr.org/2026/1518.pdf) - ![[2026-1518_1785505018867_0.pdf]]
+2026 - [Practical Equivalent-Key Recovery in GRAFHEN](https://eprint.iacr.org/2026/1518.pdf) - ![[PDFs/02-Homomorphic Encryption/2026-IACR-GRAFHEN Practical Equivalent Key Recovery in GRAFHEN.pdf]] - [[015 - Practical Equivalent-Key Recovery in GRAFHEN|Paper note]]
 
-2026 - [More Efficient Lattice-based OLE](https://cic.iacr.org/p/3/1/26/pdf) - ![[3-1-26_1785505068580_0.pdf]]
+2026 - [More Efficient Lattice-based OLE](https://cic.iacr.org/p/3/1/26/pdf) - ![[PDFs/02-Homomorphic Encryption/2026-CIC-OLE More Efficient Lattice Based OLE from Circuit Private Linear HE with Polynomial Overhead.pdf]] - [[016 - More Efficient Lattice-based OLE|Paper note]]
+
+
+## Paper notes from draft
+
+- [[017 - PEPSI - Practically Efficient Private Set Intersection in the Unbalanced Setting]]
+- [[018 - Automorphism-Compatible NTT and its Application to Homomorphic Encryption]]
+- [[019 - Verifier-Aligned Canonical Source Binding for Homomorphic Encryption Computations]]
+- [[020 - Practical and Efficient MPC from FHE, without ZKPoKs]]
+- [[021 - Verifiable Computation on Encrypted Data from Homomorphic Encryption over Random Encodings]]
+- [[022 - Software-Pipelining The Number Theoretic Transform on Neural Processing Units - A Loop-Fission Methodology]]
+- [[023 - Tulva - Practical Asynchronous Threshold FHE]]
+- [[024 - Fully Homomorphic Encryption for Small Batches of Complex Numbers]]
+- [[025 - GKS Fully Homomorphic Encryption - Security Analysis]]
+- [[026 - Homomorphic Encryption for High-precision Arithmetic of Approximate Numbers]]
+- [[027 - High-Precision CKKS with Focal Units]]
+- [[028 - New IND-CPA-D Attacks on BFV and BGV]]
+- [[029 - A New Approach to Reducing Modulus Requirements in Homomorphic Computation - Precision Allocation in CKKS]]
+- [[030 - RDK-CKKS - A Framework for Rigorous Error Analysis of CKKS Computation]]
+- [[031 - High-precision Bootstrapping for GCKKS]]
+- [[032 - Mímir - A Stateless Private Search Engine]]
+- [[033 - Efficient (Functional) Bootstrapping for CKKS over the Conjugate-Invariant Ring]]
+- [[034 - Hash Function Constructions from Lightweight Block Ciphers for Fully Homomorphic Encryption]]
+
+
+## SEC-CAT paper collection
+
+### HE constructions and evaluation
+
+- [[035 - EvalRound Algorithm in CKKS Bootstrapping]]
+- [[036 - FINAL Faster FHE Instantiated with NTRU and LWE]]
+- [[037 - Large-Precision Homomorphic Sign Evaluation Using FHEW TFHE Bootstrapping]]
+- [[039 - META-BTS Bootstrapping Precision Beyond the Limit]]
+- [[040 - Amortized Bootstrapping Revisited Simpler, Asymptotically-Faster, Implemented]]
+- [[041 - Amortized Functional Bootstrapping in Less than 7 ms, with O-tilde(1) Polynomial Multiplications]]
+- [[042 - Homomorphic Polynomial Evaluation Using Galois Structure and Applications to BFV Bootstrapping]]
+- [[046 - Level Up Private Non-Interactive Decision Tree Evaluation using Levelled Homomorphic Encryption]]
+- [[047 - Accelerating HE Operations from Key Decomposition Technique]]
+- [[048 - Fast Blind Rotation for Bootstrapping FHEs]]
+- [[050 - How to Compress Encrypted Data]]
+- [[051 - On Polynomial Functions Modulo p^e and Faster Bootstrapping for Homomorphic Encryption]]
+- [[056 - NTRU-Based Bootstrapping for MK-FHEs Without Using Overstretched Parameters]]
+- [[009 - Revisiting key decomposition techniques for FHE - Simpler, faster and more generic]]
+- [[057 - Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS]]
+- [[062 - Plaintext-Ciphertext Matrix Multiplication and FHE Bootstrapping Fast and Fused]]
+- [[063 - Accelerating BGV Bootstrapping for Large p Using Null Polynomials over Z_(p^e)]]
+- [[064 - Anamorphic Encryption New Constructions and Homomorphic Realizations]]
+- [[065 - Bootstrapping Bits with CKKS]]
+- [[066 - Circuit Bootstrapping Faster and Smaller]]
+- [[073 - Accelerating TFHE with Sorted Bootstrapping Techniques]]
+- [[074 - Bootstrappable Fully Homomorphic Attribute-Based Encryption with Unbounded Circuit Depth]]
+- [[075 - Bootstrapping (T)FHE Ciphertexts via Automorphisms Closing the Gap Between Binary and Gaussian Keys]]
+- [[076 - Carousel Fully Homomorphic Encryption with Bootstrapping over Automorphism Group]]
+- [[011 - Grafting - Decoupled Scale Factors and Modulus in RNS-CKKS]]
+- [[082 - Leveraging Discrete CKKS to Bootstrap in High Precision]]
+- [[083 - Lodia Towards Optimal Sparse Matrix-Vector Multiplication for Batched Fully Homomorphic Encryption]]
+- [[084 - New Permutation Decomposition Techniques For Efficient Homomorphic Permutation]]
+- [[087 - General Functional Bootstrapping Using CKKS]]
+- [[088 - Homomorphic Encryption for Large Integers from Nested Residue Number Systems]]
+- [[090 - Fully Homomorphic Encryption for Cyclotomic Prime Moduli]]
+- [[095 - Efficient Batchable Secure Outsourced Computation Depth-Aware Arithmetization of Common Primitives for BFV & BGV]]
+- [[103 - Efficient Arithmetic-and-Comparison Homomorphic Encryption with Space Switching]]
+- [[106 - Select-Then-Compute Encrypted Label Selection and Analytics over Distributed Datasets using FHE]]
+- [[108 - BatchBoot Fast Batched Bootstrapping for TFHE scheme and Practical Applications]]
+- [[110 - HasteBoots Proving TFHE Programmable Bootstrapping in Seconds]]
+
+### Threshold and multiparty HE
+
+- [[038 - Threshold Linearly Homomorphic Encryption on Z 2^k Z]]
+- [[043 - Simple Threshold (Fully Homomorphic) Encryption from LWE with Polynomial Modulus]]
+- [[044 - Asymptotically Faster Multi-Key Homomorphic Encryption from Homomorphic Gadget Decomposition]]
+- [[049 - Efficient FHEW Bootstrapping with Small Evaluation Keys, and Applications to Threshold Homomorphic Encryption]]
+- [[079 - High-Throughput Universally Composable Threshold FHE Decryption]]
+- [[089 - Resolving the Efficiency-Utility Dilemma of Threshold Linearly Homomorphic Encryption via Message-Space Adapter]]
+- [[094 - Arbitrary-Threshold Fully Homomorphic Encryption with Lower Complexity]]
+- [[102 - Shechi A Secure Distributed Computation Compiler Based on Multiparty Homomorphic Encryption]]
+- [[107 - Ajax Fast Threshold Fully Homomorphic Encryption without Noise Flooding]]
+
+### Hardware acceleration
+
+- [[045 - FPT A Fixed-Point Accelerator for Torus Fully Homomorphic Encryption]]
+- [[059 - Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration]]
+
+### HE applications and protocols
+
+- [[052 - CSHER A System for Compact Storage with HE-Retrieval]]
+- [[053 - Efficient Unbalanced Private Set Intersection Cardinality and User-friendly Privacy-preserving Contact Tracing]]
+- [[067 - Crypto Dark Matter on the Torus Oblivious PRFs from Shallow PRFs and TFHE]]
+- [[017 - PEPSI - Practically Efficient Private Set Intersection in the Unbalanced Setting]]
+- [[072 - PerfOMR Oblivious Message Retrieval with Reduced Communication and Computation]]
+- [[078 - PriFHEte Achieving Full-Privacy in Account-Based Cryptocurrencies is Possible]]
+- [[093 - Recurrent Private Set Intersection for Unbalanced Databases with Cuckoo Hashing and Leveled FHE]]
+- [[096 - Efficient Ranking, Order Statistics, and Sorting under CKKS]]
+- [[097 - Engorgio An Arbitrary-Precision Unbounded-Size Hybrid Encrypted Database via Quantized Fully Homomorphic Encryption]]
+- [[099 - GraphAce Secure Two-Party Graph Analysis Achieving Communication Efficiency]]
+- [[100 - Leuvenshtein Efficient FHE-based Edit Distance Computation with Single Bootstrap per Cell]]
+- [[101 - Qelect Lattice-based Single Secret Leader Election Made Practical]]
+- [[104 - cwPSU Efficient Unbalanced Private Set Union via Constant-weight Codes]]
+- [[105 - PACS Privacy-Preserving Attribute-Driven Community Search over Attributed Graphs]]
+- [[113 - SophOMR Improved Oblivious Message Retrieval from SIMD-Aware Homomorphic Compression]]
+
+### Compilers and programming
+
+- [[054 - ELASM Error-Latency-Aware Scale Management for Fully Homomorphic Encryption]]
+- [[055 - HECO Fully Homomorphic Encryption Compiler]]
+- [[069 - HEIR A Unified Representation for Cross-Scheme Compilation of Fully Homomorphic Computation]]
+- [[070 - DaCapo Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption]]
+- [[080 - ILA Correctness via Type Checking for Fully Homomorphic Encryption]]
+- [[109 - Bridging Usability and Performance A Tensor Compiler for Autovectorizing Homomorphic Encryption]]
+- [[111 - Libra Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU]]
+- [[112 - Orbit Optimizing Rescale and Bootstrap Placement with Integer Linear Programming Techniques for Secure Inference]]
+
+### Security and verification
+
+- [[058 - VERITAS Plaintext Encoders for Practical Verifiable Homomorphic Encryption]]
+- [[061 - On the Practical CPA^D Security of “exact” and Threshold FHE Schemes and Libraries]]
+- [[068 - Fully Homomorphic Encryption Beyond IND-CCA1 Security Integrity Through Verifiability]]
+- [[071 - Key Recovery Attacks on Approximate Homomorphic Encryption with Non-Worst-Case Noise Flooding Countermeasures]]
+- [[077 - Cryptanalysis on Lightweight Verifiable Homomorphic Encryption]]
+- [[081 - IND-CPA-D of Relaxed Functional Bootstrapping A New Attack, A General Fix, and A Stronger Model]]
+- [[085 - Phalanx An FHE-Friendly SNARK for Verifiable Computation on Encrypted Data]]
+- [[086 - Fully Homomorphic Encryption with Chosen-Ciphertext Security from LWE]]
+- [[092 - DataSeal Ensuring the Verifiability of Private Computation on Encrypted Data]]
+- [[098 - GlitchFHE Attacking Fully Homomorphic Encryption Using Fault Injection]]
+
+### Quantum HE
+
+- [[060 - How to Construct Quantum FHE, Generically]]
+- [[091 - Quantum Key Leasing for PKE and FHE with a Classical Lessor]]
