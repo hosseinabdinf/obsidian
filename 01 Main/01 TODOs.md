@@ -1,13 +1,9 @@
 
 # Work
 - [x] ⏫ Update the tax information with vero ✅ 2026-10-28
-- [ ] ⏫ send the request for new Residence Permit card, and then send it to HR to get the new contract
-- [ ] Ask Antonis for the new contract - mine will end on 2027-01-31
-- [ ] Check this with Antonis https://www.nokiafoundation.com/foundation-fellow
+- [ ] ⏫ send the request for new Residence Permit card for family, and then send it to HR to get the new contract
 - [ ] 
 # Research
-- [ ] AoS is vulnerable, single-key recovery attack
-	- fix the attack by proposing a new scheme based on IPFE
 - [ ] Check https://datatracker.ietf.org/doc/draft-irtf-cfrg-aegis-aead/
 - [ ] The new CBS code for HHEKombat & possibly updating the eprint version [https://dl.acm.org/doi/pdf/10.1145/3719027.3744873#page=13.38](https://dl.acm.org/doi/pdf/10.1145/3719027.3744873#page=13.38)
 - [ ] Read https://cryptography101.ca/wp-content/uploads/2025/09/V2-slides-Crypto101.pdf
