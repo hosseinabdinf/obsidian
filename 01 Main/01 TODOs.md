@@ -1,8 +1,8 @@
 
 # Work
-- [x] ⏫ Update the tax information with vero ✅ 2026-10-28
 - [ ] ⏫ send the request for new Residence Permit card for family, and then send it to HR to get the new contract
-- [ ] 
+- [ ] ⏫ send email for Nastaran job
+- [ ] ⏫ Finish Amazon proposal
 # Research
 - [ ] Check https://datatracker.ietf.org/doc/draft-irtf-cfrg-aegis-aead/
 - [ ] The new CBS code for HHEKombat & possibly updating the eprint version [https://dl.acm.org/doi/pdf/10.1145/3719027.3744873#page=13.38](https://dl.acm.org/doi/pdf/10.1145/3719027.3744873#page=13.38)
@@ -35,18 +35,17 @@
 - [x] Book the flights ✅ 2026-10-07
 - [x] Book the hotel ✅ 2026-10-20
 - [ ] Book VR and AMS train tickets
-- [ ] HFE presentation
+- [ ] ⏫ HFE presentation
 
 
 # Projects
 ### REINFORCE
-- [ ] Email WP3 partners to fill-out the tasks and activities file before the next meeting
+- [ ] Fill the M01-M06 technical report before 15th Nov
 - [ ] 
 ### PiQASO
 - [ ] 
 - [ ] 
 ### Swarmchestrate
-- [x] Push the $private-ranking$ branch in resource-agent repository ✅ 2026-10-07
 - [ ] 
 
 
