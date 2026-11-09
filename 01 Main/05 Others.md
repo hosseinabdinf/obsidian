@@ -22,4 +22,5 @@ https://www.roihu.csc.fi/public/
 8. European Research Council (ERC): https://erc.europa.eu/apply-grant/starting-grant
 9. RCF: https://www.aka.fi/en/
 10. Huawei Fund: huawei research funding finland?
+11. YSSP - Young Scientists Summer Program Austria: https://iiasa.ac.at/early-career/yssp
 ---
