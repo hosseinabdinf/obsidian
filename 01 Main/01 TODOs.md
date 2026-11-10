@@ -3,6 +3,7 @@
 - [ ] ⏫ send the request for new Residence Permit card for family, and then send it to HR to get the new contract
 - [ ] ⏫ send email for Nastaran job
 - [ ] ⏫ Finish Amazon proposal
+- [ ] 🔽 Do the ai course from uni https://intra.tuni.fi/en/content/news/75151
 # Research
 - [ ] Check https://datatracker.ietf.org/doc/draft-irtf-cfrg-aegis-aead/
 - [ ] The new CBS code for HHEKombat & possibly updating the eprint version [https://dl.acm.org/doi/pdf/10.1145/3719027.3744873#page=13.38](https://dl.acm.org/doi/pdf/10.1145/3719027.3744873#page=13.38)
