@@ -26,3 +26,5 @@
 
 
 #Ideas MedGemma from google for private inference https://huggingface.co/collections/google/medgemma-release
+
+#Ideas FHE vm for video encryption and proccessing
