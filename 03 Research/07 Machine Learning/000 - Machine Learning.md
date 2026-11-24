@@ -1,4 +1,5 @@
-
+## Books
+- [[Build a Large Language Model (From Scratch)]]
 
 ## Paper notes from draft
 

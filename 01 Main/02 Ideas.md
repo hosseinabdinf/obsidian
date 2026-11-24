@@ -30,3 +30,6 @@
 #Ideas FHE vm for video encryption and proccessing
 
 #Ideas I had one idea, probably for something I saw from the cw2 presentations or maybe not, I don't remember it :(
+
+
+#Ideas having a privacy-preserving cv system, where companies can share their scores of what is the best candidate and the candidates can share their cv (numerical-range-values) so that an inner-product can result in a final score.
